@@ -1,27 +1,34 @@
 ---
-title: Document with Sidenav
+title: EEO / HR
 layout: page
 sidenav: true
 ---
 
-# Section heading (h1)
+If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslater@onhir.gov?subject=EEO/HR question from onhir.gov link)**
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+**Equal Employment Opportunity (EEO)**
+*   [Commitment Policy](EEO-Policy-Statement.html)
+*   [Reasonable Accommodation Policy](../policy/Reasonable_Accommodation Policy.pdf)  pdf
+*   [Alternative Dispute Resolution Policy](ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.html)
+*   [Discrimination Complaint Process](EEO-DISCRIMINATION-COMPLAINT-PROCESS.html)
+*   [Sexual Harassment Policy](eeo-sexual-harassment-policy.htm)
+*   [PAS Procedures](PAS.html) 
+*   [Anti-Harassment Policy and Procedures](Harassment.html) 
 
-We can also use variables in our pages. For example, this is the title variable: **{{page.title}}**
+**[US Office of Special Counsel](https://osc.gov "US Office of Special Counsel")** - [https://osc.gov](https://osc.gov/)
 
-## Section heading (h2)
+*   [No Fear Data](No-FEAR-DATA.pdf) pdf update 03/21/2019
+*   [No Fear Act Notice](No-Fear-Act-Notice.html)
+*   [The Architectural Barriers Act of 1968](The Architectural Barriers Act of 1968.pdf) pdf
+    **Prohibited Personnel Practices (PPP)**
+    
+    *   [Prohibited Personnel Practices](Prohibited Personnel Practices.pdf) pdf
+    *   [Know Your Rights as a Federal Employee](Know Your Rights as a Federal Employee.pdf) pdf
+    **Whistleblower Disclosure**
+    *   [Know your Rights When Reporting Wrongs](Know your Rights When Reporting Wrongs.pdf) pdf
+    *   [Whistleblower Retaliation](Whistleblower Retaliation.pdf) pdf
 
-These headings introduce, respectively, sections and subsections within your body copy. As you create these headings, follow the same guidelines that you use when writing section headings: Be succinct, descriptive, and precise.
+**Human Resources (HR)**
+*   [Employee Survey](../employee-survey/index.html)
 
-### Subsection heading (h3)
-
-The particulars of your body copy will be determined by the topic of your page. Regardless of topic, it’s a good practice to follow the inverted pyramid structure when writing copy: Begin with the information that’s most important to your users and then present information of less importance.
-
-Keep each section and subsection focused — a good approach is to include one theme (topic) per section.
-
-#### Subsection heading (h4)
-
-Use the side navigation menu to help your users quickly skip to different sections of your page. The menu is best suited to displaying a hierarchy with one to three levels and, as we mentioned, to display the sub-navigation of a given page.
-
-Read the full documentation on our side navigation on the component page.
+Updated: 06/03/2019

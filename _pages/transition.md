@@ -1,27 +1,23 @@
 ---
-title: Document with Sidenav
+title: ONHIR Transition Information
 layout: page
 sidenav: true
 ---
 
-# Section heading (h1)
+[Finance Information Page](finance/index.html) updated as of 08/15/2018
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+[Lease Information Page](lease/index.html)
 
-We can also use variables in our pages. For example, this is the title variable: **{{page.title}}**
+[Maps Page](maps/index.html)
 
-## Section heading (h2)
+[Newlands Conveyance Page](nl-conveyance-docs/index.html)
 
-These headings introduce, respectively, sections and subsections within your body copy. As you create these headings, follow the same guidelines that you use when writing section headings: Be succinct, descriptive, and precise.
+[Range Information Page](range/index.html)
 
-### Subsection heading (h3)
+[Intragovernmental Use Agreement](Intragovernmental Use Agreement/Index.html) 10/17/2018
 
-The particulars of your body copy will be determined by the topic of your page. Regardless of topic, it’s a good practice to follow the inverted pyramid structure when writing copy: Begin with the information that’s most important to your users and then present information of less importance.
+[Homesite Totals](HOMESITES-TOTALS.pdf) pdf as of 9/17/2018
 
-Keep each section and subsection focused — a good approach is to include one theme (topic) per section.
+[New Lands Records Series/Index](New-Lands-Records-Series-Index.pdf) pdf 10/04/2018
 
-#### Subsection heading (h4)
-
-Use the side navigation menu to help your users quickly skip to different sections of your page. The menu is best suited to displaying a hierarchy with one to three levels and, as we mentioned, to display the sub-navigation of a given page.
-
-Read the full documentation on our side navigation on the component page.
+Updated: 04/18/2019

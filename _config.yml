@@ -38,12 +38,15 @@ dap_agency: GSA
 primary_navigation:
   - name: Home
     url: /
-  - name: FOIA
-    url: /foia/
+  - name: Eligibility
+    url: /eligibility/
+  - name: Budget and Performance
+    url: /budget-and-performance/
   - name: About
     url: /about/
     
-    
+
+
 
 # Search.gov configuration
 #
