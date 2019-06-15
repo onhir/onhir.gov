@@ -18,11 +18,11 @@ redirect_from:
 [Contact\_Us Page]({{site.baseurl}}/contact-us.html "Contact Us Page")  
 [Congressional Justification]({{site.baseurl}}/CJ/index.html)  
 [Contractors-Requirements\_to\_build\_relocation\_houses]({{site.baseurl}}/readingroom/Requirements-for-Contractors.html "Contracors Reqirements") pdf  
-[Resource Requirements]({{site.baseurl}}/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong 2012 Resource Requirements") pdf  
-[Congressional Salaries and Expenses]({{site.baseurl}}/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong 2012 Salaries and Expenses") pdf  
-[Congressional\_Annual\_Reports]({{site.baseurl}}/datasets/Cong%20Salaries%20and%20Expenses.xls "Congressional_Annual_Reports") xls Dataset  
-[Cong 2010 Resource Requirements]({{site.baseurl}}/datasets/Congressional_Resource_Requirements.csv "Cong 2010 Resource Requirements csv format") csv format  
-[ **CONTINGENCY PLAN FOR AGENCY OPERATIONS IN ABSENCE OF APPROPRIATIONS**]({{site.baseurl}}/readingroom/Contingency-Plan.pdf)  
+[Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong 2012 Resource Requirements") pdf  
+[Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong 2012 Salaries and Expenses") pdf  
+[Congressional\_Annual\_Reports]({{site.baseurl}}/assets/documents/datasets/Cong%20Salaries%20and%20Expenses.xls "Congressional_Annual_Reports") xls Dataset  
+[Cong 2010 Resource Requirements]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Cong 2010 Resource Requirements csv format") csv format  
+[ **CONTINGENCY PLAN FOR AGENCY OPERATIONS IN ABSENCE OF APPROPRIATIONS**]({{site.baseurl}}/assets/documents/readingroom/Contingency-Plan.pdf)  
 
 # D 
 [DataSets]({{site.baseurl}}/open/index.html#DataSets "Data Set page from Open Government Page") on Open Government Page  
@@ -38,24 +38,24 @@ redirect_from:
 
 # F
 
-[FOIA Page]({{site.baseurl}}/foia/index.html "FOIA Page")  
+[FOIA Page]({{site.baseurl}}/assets/documents/foia/index.html "FOIA Page")  
 [FOIA-- Chief FOIA Officer Reports]({{site.baseurl}}/foia/Chief/index.html)  
 [FOIA -- Annual Reports]({{site.baseurl}}/foia/Archives/index.html)  
 [Final\_Opinions Page]({{site.baseurl}}/policy/Final-Opinions.html "final_opinions")  
 [No Fear Act Notice]({{site.baseurl}}/eeo/No-Fear-Act-Notice.html "No Fear Act Notice")  
-[No Fear Act Data]({{site.baseurl}}/eeo/No-FEAR-DATA.pdf "No Fear Act Data") pdf  
-[Fair Act Contact info]({{site.baseurl}}/budget-and-performance/Fair%20Act%20contact%20info.xls "Fair Act Contact Info") xls  
-[Fair Act Inventory info]({{site.baseurl}}/budget-and-performance/FAIR%20Act%20inventory%20info.xls "Fair Act Inventory Info") xls  
-[Fair Act Summary Figures]({{site.baseurl}}/datasets/FAIR_Act_summary_figures.xls "Fair Act Summary Figures") xls dataset  
+[No Fear Act Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf "No Fear Act Data") pdf  
+[Fair Act Contact info]({{site.baseurl}}/assets/documents/budget-and-performance/Fair%20Act%20contact%20info.xls "Fair Act Contact Info") xls  
+[Fair Act Inventory info]({{site.baseurl}}/assets/documents/budget-and-performance/FAIR%20Act%20inventory%20info.xls "Fair Act Inventory Info") xls  
+[Fair Act Summary Figures]({{site.baseurl}}/assets/documents/datasets/FAIR_Act_summary_figures.xls "Fair Act Summary Figures") xls dataset  
 
 # G  
 
-[GPRA Annual Plan]({{site.baseurl}}/budget-and-performance/GPRA%20Annual%20Plan.pdf "GPRA Annual Plan 2012") pdf  
-[GPRA Multiyear Plan]({{site.baseurl}}/budget-and-performance/GPRA%20Multiyear.pdf "GPRA FY2012 multiyear") pdf  
+[GPRA Annual Plan]({{site.baseurl}}/assets/documents/budget-and-performance/GPRA%20Annual%20Plan.pdf "GPRA Annual Plan 2012") pdf  
+[GPRA Multiyear Plan]({{site.baseurl}}/assets/documents/budget-and-performance/GPRA%20Multiyear.pdf "GPRA FY2012 multiyear") pdf  
 
 # H  
 
-[HSPD-12 Implementation Status Report]({{site.baseurl}}/about-ONHIR/HSPD-12-Reporting.pdf "HSPD-12 Implementation   Status Report PDF") pdf
+[HSPD-12 Implementation Status Report]({{site.baseurl}}/assets/documents/about-ONHIR/HSPD-12-Reporting.pdf "HSPD-12 Implementation   Status Report PDF") pdf
 
 # J 
 
@@ -63,16 +63,16 @@ redirect_from:
 
 # M 
 
-[ONHIR\_Management\_Manual]({{site.baseurl}}/mangement-manual/ONHIR-Management-Manual.pdf "ONHIR Management Manual pdf") pdf  
-[Monthly\_Numbers\_Qrtly]({{site.baseurl}}/datasets/Monthly_Numbers_Qrtly.pdf "Monthly Numbers Qrtly pdf - dataset") pdf dataset  
-[Monthly\_Numbers\_Qrtly]({{site.baseurl}}/datasets/Monthly_Numbers_Qrtly.xls "Monthly Numbers Qrtly Xls doc") xls dataset  
+[ONHIR\_Management\_Manual]({{site.baseurl}}/assets/documents/mangement-manual/ONHIR-Management-Manual.pdf "ONHIR Management Manual pdf") pdf  
+[Monthly\_Numbers\_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.pdf "Monthly Numbers Qrtly pdf - dataset") pdf dataset  
+[Monthly\_Numbers\_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.xls "Monthly Numbers Qrtly Xls doc") xls dataset  
 [Mission Page]({{site.baseurl}}/open/Mission.html "Mission")  
-[Map to Agency]({{site.baseurl}}/Map-to-Agency.pdf)  
+[Map to Agency]({{site.baseurl}}/assets/documents/Map-to-Agency.pdf)  
 
 # N 
 
-[Navajo and Hopi Settlement Act]({{site.baseurl}}/N-H-Settlement-Act-titled.pdf "Navajo and Hopi Settlement Act")pdf  
-[Public Law 93-531(as amended)]({{site.baseurl}}/N-H-Settlement-Act-titled.pdf "Public Law 93-531 (as amended)") pdf  
+[Navajo and Hopi Settlement Act]({{site.baseurl}}/assets/documents/N-H-Settlement-Act-titled.pdf "Navajo and Hopi Settlement Act")pdf  
+[Public Law 93-531(as amended)]({{site.baseurl}}/assets/documents/N-H-Settlement-Act-titled.pdf "Public Law 93-531 (as amended)") pdf  
 
 # O 
 
@@ -84,10 +84,10 @@ redirect_from:
 # P 
 
 [Plain Writing Page]({{site.baseurl}}/plain-writing/index.html "Plain Writing")  
-[Plain Writing Annual Report]({{site.baseurl}}/plain-writing/agency-compliance-report.pdf "Plain Writing Annual Report") pdf  
-[Privacy Imact Assessment]({{site.baseurl}}/privacy/PIA.pdf "PIA")   pdf  
+[Plain Writing Annual Report]({{site.baseurl}}/assets/documents//plain-writing/agency-compliance-report.pdf "Plain Writing Annual Report") pdf  
+[Privacy Imact Assessment]({{site.baseurl}}/assets/documents/privacy/PIA.pdf "PIA")   pdf  
 [Privacy\_Statement Policy Page]({{site.baseurl}}/privacy/index.html "Privacy_Statement.html")  
-[PAR - Office of Navajo and Hopi Indian Relocation]({{site.baseurl}}/budget-and-performance/ONHIR.FY2018.PAR.pdf) pdf  
+[PAR - Office of Navajo and Hopi Indian Relocation]({{site.baseurl}}/assets/documents/budget-and-performance/ONHIR.FY2018.PAR.pdf) pdf  
 [Prohibited Personnel Practices (PPP)]({{site.baseurl}}/eeo/index.html)  
 
 # R 
@@ -95,8 +95,8 @@ redirect_from:
 [Reading Room Page]({{site.baseurl}}/readingroom/index.html "Reading Room")  
 [Requirements\_for\_Contractors Page]({{site.baseurl}}/readingroom/Requirements-for-Contractors.html "Requirements_for_Contractors")  
 [Recovery Page]({{site.baseurl}}/recovery/index.html "Recovery Page")  
-[Reasonable\_Accommondation\_Policy Page]({{site.baseurl}}/policy/Reasonable_Accommodation%20Policy.pdf)  
-[Reduce the use of Social Security Numbers]({{site.baseurl}}/privacy/FISMA-20-Reduce-use-of-Social-Security-Number-Policy-Procedure.pdf)  
+[Reasonable\_Accommondation\_Policy Page]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation%20Policy.pdf)  
+[Reduce the use of Social Security Numbers]({{site.baseurl}}/assets/documents/privacy/FISMA-20-Reduce-use-of-Social-Security-Number-Policy-Procedure.pdf)  
 
 # T 
 
