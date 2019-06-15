@@ -19,14 +19,17 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 
 *   [No Fear Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf) pdf update 03/21/2019
 *   [No Fear Act Notice](No-Fear-Act-Notice.html)
-*   [The Architectural Barriers Act of 1968]({{site.baseurl}}/assets/documents/eeo/The%20Architectural%20Barriers%20Act%20of%201968.pdf) pdf
-    **Prohibited Personnel Practices (PPP)**
-    
-    *   [Prohibited Personnel Practices]({{site.baseurl}}/assets/documents/eeo/Prohibited%20Personnel%20Practices.pdf) pdf
-    *   [Know Your Rights as a Federal Employee]({{site.baseurl}}/assets/documents/eeo/Know%20Your%20Rights%20as%20a%20Federal%20Employee.pdf) pdf
-    **Whistleblower Disclosure**
-    *   [Know your Rights When Reporting Wrongs]({{site.baseurl}}/assets/documents/eeo/Know%20your%20Rights%20When%20Reporting%20Wrongs.pdf) pdf
-    *   [Whistleblower Retaliation]({{site.baseurl}}/assets/documents/eeo/Whistleblower%20Retaliation.pdf) pdf
+*   [The Architectural Barriers Act of 1968]({{site.baseurl}}/assets/documents/eeo/The%20Architectural%20Barriers%20Act%20of%201968.pdf)  
+
+**Prohibited Personnel Practices (PPP)**
+
+*   [Prohibited Personnel Practices]({{site.baseurl}}/assets/documents/eeo/Prohibited%20Personnel%20Practices.pdf) pdf
+*   [Know Your Rights as a Federal Employee]({{site.baseurl}}/assets/documents/eeo/Know%20Your%20Rights%20as%20a%20Federal%20Employee.pdf) pdf
+
+**Whistleblower Disclosure**
+
+*   [Know your Rights When Reporting Wrongs]({{site.baseurl}}/assets/documents/eeo/Know%20your%20Rights%20When%20Reporting%20Wrongs.pdf) pdf
+*   [Whistleblower Retaliation]({{site.baseurl}}/assets/documents/eeo/Whistleblower%20Retaliation.pdf) pdf
 
 **Human Resources (HR)**
 *   [Employee Survey](../employee-survey/index.html)
