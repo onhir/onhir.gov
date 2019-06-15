@@ -35,15 +35,15 @@ google_analytics_ua: UA-????????-??
 dap_agency: GSA
 
 # Site Navigation
-primary_navigation:
-  - name: Home
-    url: /
-  - name: Eligibility
-    url: /eligibility/
-  - name: Budget and Performance
-    url: /budget-and-performance/
-  - name: About
-    url: /about/
+# primary_navigation:
+#   - name: Home
+#     url: /
+#   - name: Eligibility
+#     url: /eligibility/
+#   - name: Budget and Performance
+#     url: /budget-and-performance/
+#   - name: About
+#     url: /about/
     
 
 
