@@ -14,7 +14,7 @@ redirect_from:
 **If you have an Eligibility Application Pending  - Call**  
 ***Joseph Shelton  extension  #151   [jshelto@onhir.gov](mailto:jshelto@onhir.gov)***  
 ***Bertha Begay     extension  #142   [bbegay@onhir.gov](mailto:bbegay@onhir.gov)***  
-***Colleen Tso        extension  #116   [ctso@onhir.gov](mailto:ctso@onhir.gov)***
+*
 
 **Eligibility Appeal Pending**  
 ***If you have an Appeal pending and have a lawyer representing you in that Appeal, please contact your lawyer. ***  
@@ -67,7 +67,7 @@ TTY 1-800-877-8339
 
 **REMOTE OFFICE - Sanders, AZ**  
 **Mae Salago-King     **[mking@onhir.gov](mailto:mking@onhir.gov?subject=Contact%20from%20ONHIR%20Website)  
-**Helen Benally           **[hbennall@onhir](mailto:mking@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
+*
 
 **REMOTE OFFICE - Chambers, AZ**  
 **Danny Lee        **[dlee@onhir.gov](mailto:dlee@onhir.gov?subject=Contact%20from%20ONHIR%20Website)  
