@@ -38,7 +38,7 @@ redirect_from:
 
 # F
 
-[FOIA Page]({{site.baseurl}}/assets/documents/foia/index.html "FOIA Page")  
+[FOIA Page]({{site.baseurl}}/foia/index.html "FOIA Page")  
 [FOIA-- Chief FOIA Officer Reports]({{site.baseurl}}/foia/Chief/index.html)  
 [FOIA -- Annual Reports]({{site.baseurl}}/foia/Archives/index.html)  
 [Final\_Opinions Page]({{site.baseurl}}/policy/Final-Opinions.html "final_opinions")  
