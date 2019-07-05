@@ -9,7 +9,7 @@ redirect_from:
 # A
 [About Us Page]({{site.baseurl}}/about.html "About ONHIR Page")  
 [Appeals From Denials Page]({{site.baseurl}}/eligibility/Appeals-From-Denials.html "Appeals From Denials html page")  
-[Alternative\_Dispute\_Resolution\_Policy]({{site.baseurl}}/eeo/ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.html "Alternative Dispute Resolution Policy pdf") pdf  
+[Alternative\_Dispute\_Resolution\_Policy]({{site.baseurl}}/eeo/ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.pdf "Alternative Dispute Resolution Policy pdf") pdf  
 
 # B
 [Budget\_&\_Performance Page]({{site.baseurl}}/budget-and-performance/index.html "Budget & Performance Page")  
