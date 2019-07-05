@@ -84,7 +84,7 @@ redirect_from:
 # P 
 
 [Plain Writing Page]({{site.baseurl}}/plain-writing/index.html "Plain Writing")  
-[Plain Writing Annual Report]({{site.baseurl}}/assets/documents//plain-writing/agency-compliance-report.pdf "Plain Writing Annual Report") pdf  
+[Plain Writing Annual Report]({{site.baseurl}}/assets/documents/plain-writing/agency-compliance-report.pdf) pdf  
 [Privacy Imact Assessment]({{site.baseurl}}/assets/documents/privacy/PIA.pdf "PIA")   pdf  
 [Privacy\_Statement Policy Page]({{site.baseurl}}/privacy/index.html "Privacy_Statement.html")  
 [PAR - Office of Navajo and Hopi Indian Relocation]({{site.baseurl}}/assets/documents/budget-and-performance/ONHIR.FY2018.PAR.pdf) pdf  
