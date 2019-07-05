@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Office of Navajo and Hopi Indian Relocation was established by Congress to implement the settlement of a land conflict between the Navajo and Hopi Indian Tribes. The Office was established under Public Law 93-531(as amended) and operates under this law as amended.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
-https://www.onhir.gov
+https://onhir.gov
 # Twitter handle. Only the handle, not the URL.
 twitter: 18F
 
