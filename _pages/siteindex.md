@@ -50,7 +50,7 @@ redirect_from:
 
 # G  
 
-[GPRA Annual Plan]({{site.baseurl}}/assets/documents/budget-and-performance/GPRA%20Annual%20Plan.pdf "GPRA Annual Plan 2012") pdf  
+[GPRA Annual Plan]({{site.baseurl}}/assets/documents/budget-and-performance/GPRA%20Annual%20Plan.pdf "GPRA Annual Plan") pdf  
 [GPRA Multiyear Plan]({{site.baseurl}}/assets/documents/budget-and-performance/GPRA%20Multiyear.pdf "GPRA FY2012 multiyear") pdf  
 
 # H  
