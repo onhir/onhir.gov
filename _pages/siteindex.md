@@ -17,7 +17,7 @@ redirect_from:
 # C 
 [Contact\_Us Page]({{site.baseurl}}/contact-us.html "Contact Us Page")  
 [Congressional Justification]({{site.baseurl}}/CJ/index.html)  
-[Contractors-Requirements\_to\_build\_relocation\_houses]({{site.baseurl}}/readingroom/Requirements-for-Contractors.html "Contracors Reqirements") pdf  
+[Contractors-Requirements\_to\_build\_relocation\_houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
 [Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong 2012 Resource Requirements") pdf  
 [Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong 2012 Salaries and Expenses") pdf  
 [Congressional\_Annual\_Reports]({{site.baseurl}}/assets/documents/datasets/Cong%20Salaries%20and%20Expenses.xls "Congressional_Annual_Reports") xls Dataset  
