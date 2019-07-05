@@ -30,7 +30,7 @@ redirect_from:
 
 # E
 [EEO Documents Page]({{site.baseurl}}/eeo/index.html "EEO Documents Page")  
-[EEO\_commitment\_policy Page]({{site.baseurl}}/eeo/EEO-Policy-Statement.html "EEO Sexual Harassment Policy")  
+[EEO\_commitment\_policy Page]({{site.baseurl}}/eeo/EEO-Policy-Statement.html "EEO Policy Statement")  
 [EEO\_sexual\_harassment\_policy Page]({{site.baseurl}}/eeo/eeo-sexual-harassment-policy.htm "eeo_sexual_harassment_policy")  
 [Eligibility Information Page]({{site.baseurl}}/eligibility/index.html "Eligibility Information")  
 [EmployeeSurvey Page]({{site.baseurl}}/employee-survey/index.html "Employee Survey(s)")  
