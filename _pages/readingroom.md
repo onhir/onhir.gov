@@ -11,5 +11,5 @@ sidenav: true
 * [Final Opinions]({{site.baseurl}}/policy/Final-Opinions.html)
 * [OMB Tribal Consultation Initiative](OMB-Tribal-Consultation-Initiative.html)
 * [Requirements for contractors to build relocation houses]({{site.baseurl}}/readingroom/Requirements-for-Contractors.html)
-* [Regulations and other related documents](https://www.access.gpo.gov/nara/cfr/waisidx_03/25cfr700_03.html)
+* [Regulations and other related documents](https://www.gpo.gov/)
 * [Current Agency Actions Regarding Eligibility]({{site.baseurl}}/eligibility/index.html)

@@ -2,7 +2,7 @@
 title: About Us
 layout: page
 sidenav: true
-redirect_from: 
+redirect_from:
   - about-ONHIR
 ---
 
@@ -22,4 +22,4 @@ The mission of the Office of Navajo and Hopi Indian Relocation is to provide qua
 
 Padres Mesa Ranch - disclaimer: This agency has no editorial rights to the public website padresmesaranch.com  it is our understanding the site is privately owned and monitored.
 
-Updated: 10/04/2018
+Updated: 06/02/2019
