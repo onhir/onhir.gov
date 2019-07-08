@@ -4,7 +4,7 @@ layout: page
 sidenav: true
 ---
 
-[Finance Information Page](finance/index.html) updated as of 08/15/2018
+[Finance Information Page](finance/index.html) updated as of 03/25/2019
 
 [Lease Information Page](lease/index.html)
 

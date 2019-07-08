@@ -7,9 +7,9 @@ redirect_from:
 ---
 
 # A
-[About Us Page]({{site.baseurl}}/about-ONHIR/index.html "About ONHIR Page")  
+[About Us Page]({{site.baseurl}}/about.html "About ONHIR Page")  
 [Appeals From Denials Page]({{site.baseurl}}/eligibility/Appeals-From-Denials.html "Appeals From Denials html page")  
-[Alternative\_Dispute\_Resolution\_Policy]({{site.baseurl}}/eeo/ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.html "Alternative Dispute Resolution Policy pdf") pdf  
+[Alternative\_Dispute\_Resolution\_Policy]({{site.baseurl}}/eeo/ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.pdf "Alternative Dispute Resolution Policy pdf") pdf  
 
 # B
 [Budget\_&\_Performance Page]({{site.baseurl}}/budget-and-performance/index.html "Budget & Performance Page")  
@@ -17,7 +17,7 @@ redirect_from:
 # C 
 [Contact\_Us Page]({{site.baseurl}}/contact-us.html "Contact Us Page")  
 [Congressional Justification]({{site.baseurl}}/CJ/index.html)  
-[Contractors-Requirements\_to\_build\_relocation\_houses]({{site.baseurl}}/readingroom/Requirements-for-Contractors.html "Contracors Reqirements") pdf  
+[Contractors-Requirements\_to\_build\_relocation\_houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
 [Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong 2012 Resource Requirements") pdf  
 [Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong 2012 Salaries and Expenses") pdf  
 [Congressional\_Annual\_Reports]({{site.baseurl}}/assets/documents/datasets/Cong%20Salaries%20and%20Expenses.xls "Congressional_Annual_Reports") xls Dataset  
@@ -30,7 +30,7 @@ redirect_from:
 
 # E
 [EEO Documents Page]({{site.baseurl}}/eeo/index.html "EEO Documents Page")  
-[EEO\_commitment\_policy Page]({{site.baseurl}}/eeo/EEO-Policy-Statement.html "EEO Sexual Harassment Policy")  
+[EEO\_commitment\_policy Page]({{site.baseurl}}/eeo/EEO-Policy-Statement.html "EEO Policy Statement")  
 [EEO\_sexual\_harassment\_policy Page]({{site.baseurl}}/eeo/eeo-sexual-harassment-policy.htm "eeo_sexual_harassment_policy")  
 [Eligibility Information Page]({{site.baseurl}}/eligibility/index.html "Eligibility Information")  
 [EmployeeSurvey Page]({{site.baseurl}}/employee-survey/index.html "Employee Survey(s)")  
@@ -38,7 +38,7 @@ redirect_from:
 
 # F
 
-[FOIA Page]({{site.baseurl}}/assets/documents/foia/index.html "FOIA Page")  
+[FOIA Page]({{site.baseurl}}/foia/index.html "FOIA Page")  
 [FOIA-- Chief FOIA Officer Reports]({{site.baseurl}}/foia/Chief/index.html)  
 [FOIA -- Annual Reports]({{site.baseurl}}/foia/Archives/index.html)  
 [Final\_Opinions Page]({{site.baseurl}}/policy/Final-Opinions.html "final_opinions")  
@@ -50,7 +50,7 @@ redirect_from:
 
 # G  
 
-[GPRA Annual Plan]({{site.baseurl}}/assets/documents/budget-and-performance/GPRA%20Annual%20Plan.pdf "GPRA Annual Plan 2012") pdf  
+[GPRA Annual Plan]({{site.baseurl}}/assets/documents/budget-and-performance/GPRA%20Annual%20Plan.pdf "GPRA Annual Plan") pdf  
 [GPRA Multiyear Plan]({{site.baseurl}}/assets/documents/budget-and-performance/GPRA%20Multiyear.pdf "GPRA FY2012 multiyear") pdf  
 
 # H  
