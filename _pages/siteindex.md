@@ -16,11 +16,11 @@ redirect_from:
 
 # C 
 [Contact\_Us Page]({{site.baseurl}}/contact-us.html "Contact Us Page")  
-[Congressional Justification]({{site.baseurl}}/CJ/index.html)  
-[Contractors-Requirements\_to\_build\_relocation\_houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
-[Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong 2012 Resource Requirements") pdf  
-[Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong 2012 Salaries and Expenses") pdf  
-[Congressional\_Annual\_Reports]({{site.baseurl}}/assets/documents/datasets/Cong%20Salaries%20and%20Expenses.xls "Congressional_Annual_Reports") xls Dataset  
+[Congressional Justification]({{site.baseurl}}/CJ/CJ.html)  
+[Contractors-Requirements_to_build_relocation_houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
+[Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong  Resource Requirements") pdf  
+[Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong Salaries and Expenses") pdf  
+[Congressional_Annual_Reports]({{site.baseurl}}/assets/documents/datasets/Cong%20Salaries%20and%20Expenses.xls "Congressional_Annual_Reports") xls Dataset  
 [Cong 2010 Resource Requirements]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Cong 2010 Resource Requirements csv format") csv format  
 [ **CONTINGENCY PLAN FOR AGENCY OPERATIONS IN ABSENCE OF APPROPRIATIONS**]({{site.baseurl}}/assets/documents/readingroom/Contingency-Plan.pdf)  
 
