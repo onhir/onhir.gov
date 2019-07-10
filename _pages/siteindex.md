@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 # A
-[About Us Page]({{site.baseurl}}/about.html "About ONHIR Page")  
+[About Us Page]({{site.baseurl}}/about.md "About ONHIR Page")  
 [Appeals From Denials Page]({{site.baseurl}}/eligibility/Appeals-From-Denials.html "Appeals From Denials html page")  
 [Alternative\_Dispute\_Resolution\_Policy]({{site.baseurl}}/eeo/ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.pdf "Alternative Dispute Resolution Policy pdf") pdf  
 
@@ -16,9 +16,9 @@ redirect_from:
 
 # C 
 [Contact\_Us Page]({{site.baseurl}}/contact-us.html "Contact Us Page")  
-[Congressional Justification]({{site.baseurl}}/CJ/CJ.html)  
-[Contractors-Requirements_to_build_relocation_houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
-[Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong  Resource Requirements") pdf  
+[Congressional Justification]({{site.baseurl}}/CJ/CJ.md "Congressional Justification")  
+[Contractors-Requirements_to_build_relocation_houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements") 
+[Congressional Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong  Resource Requirements") pdf  
 [Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong Salaries and Expenses") pdf  
 [Congressional_Annual_Reports]({{site.baseurl}}/assets/documents/datasets/Cong%20Salaries%20and%20Expenses.xls "Congressional_Annual_Reports") xls Dataset  
 [Cong 2010 Resource Requirements]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Cong 2010 Resource Requirements csv format") csv format  
