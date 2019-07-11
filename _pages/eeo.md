@@ -7,17 +7,17 @@ sidenav: true
 If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslater@onhir.gov?subject=EEO/HR%20question20from%20onhir.gov%20link)**
 
 **Equal Employment Opportunity (EEO)**
-*   [Commitment Policy](/eeo/EEO-Policy-Statement.html)
+*   [Commitment Policy]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 
 *   [Reasonable Accommodation Policy]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation%20Policy.pdf)  pdf
-*   [Alternative Dispute Resolution Policy](ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.html)
+*   [Alternative Dispute Resolution Policy]({{site.baseurl}}/assets/documents/eeo/Alternative-Dispute-Resolution-Policy.pdf)  pdf
 *   [Discrimination Complaint Process](EEO-DISCRIMINATION-COMPLAINT-PROCESS.html)
 *   [Sexual Harassment Policy](eeo-sexual-harassment-policy.htm)
-*   [PAS Procedures](PAS.html) 
-*   [Anti-Harassment Policy and Procedures](Harassment.html) 
+*   [PAS Procedures]({{site.baseurl}}/assets/documents/eeo/PAS.pdf)  pdf
+*   [Anti-Harassment Policy and Procedures]({{site.baseurl}}/assets/documents/eeo/Harassment.pdf)  pdf
 
 **[US Office of Special Counsel](https://osc.gov "US Office of Special Counsel")** - [https://osc.gov](https://osc.gov/)
 
-*   [No Fear Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf) pdf update 03/21/2019
+*   [No Fear Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf) pdf update 06/17/2019
 *   [No Fear Act Notice](No-Fear-Act-Notice.html)
 *   [The Architectural Barriers Act of 1968]({{site.baseurl}}/assets/documents/eeo/The%20Architectural%20Barriers%20Act%20of%201968.pdf)  
 

@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 # A
-[About Us Page]({{site.baseurl}}/about.html "About ONHIR Page")  
+[About Us Page]({{site.baseurl}}/about.md "About ONHIR Page")  
 [Appeals From Denials Page]({{site.baseurl}}/eligibility/Appeals-From-Denials.html "Appeals From Denials html page")  
 [Alternative\_Dispute\_Resolution\_Policy]({{site.baseurl}}/eeo/ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.pdf "Alternative Dispute Resolution Policy pdf") pdf  
 
@@ -15,12 +15,13 @@ redirect_from:
 [Budget\_&\_Performance Page]({{site.baseurl}}/budget-and-performance/index.html "Budget & Performance Page")  
 
 # C 
-[Contact\Contact-Us Page]({{site.baseurl}}/contact-us.html "Contact Us Page")  
-[Congressional Justification]({{site.baseurl}}/CJ/index.html)  
-[Contractors-Requirements\_to\_build\_relocation\_houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
-[Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong 2012 Resource Requirements") pdf  
-[Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong 2012 Salaries and Expenses") pdf  
-[Congressional\_Annual\_Reports]({{site.baseurl}}/assets/documents/datasets/Cong%20Salaries%20and%20Expenses.xls "Congressional_Annual_Reports") xls Dataset  
+
+[Contact-Us]({{site.baseurl}}/contact-us.html "Contact Us")  
+[Congressional Justification]({{site.baseurl}}/CJ/ "Congressional Justification")  
+[Contractors Requirements to build relocation houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
+[Congressional Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong  Resource Requirements") pdf  
+[Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong Salaries and Expenses") pdf  
+[Congressional_Annual_Reports]({{site.baseurl}}/assets/documents/datasets/Cong%20Salaries%20and%20Expenses.xls "Congressional_Annual_Reports") xls Dataset  
 [Cong 2010 Resource Requirements]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Cong 2010 Resource Requirements csv format") csv format  
 [ **CONTINGENCY PLAN FOR AGENCY OPERATIONS IN ABSENCE OF APPROPRIATIONS**]({{site.baseurl}}/assets/documents/readingroom/Contingency-Plan.pdf)  
 
@@ -84,7 +85,7 @@ redirect_from:
 # P 
 
 [Plain Writing Page]({{site.baseurl}}/plain-writing/index.html "Plain Writing")  
-[Plain Writing Annual Report]({{site.baseurl}}/assets/documents//plain-writing/agency-compliance-report.pdf "Plain Writing Annual Report") pdf  
+[Plain Writing Annual Report]({{site.baseurl}}/assets/documents/plain-writing/agency-compliance-report.pdf) pdf  
 [Privacy Imact Assessment]({{site.baseurl}}/assets/documents/privacy/PIA.pdf "PIA")   pdf  
 [Privacy\_Statement Policy Page]({{site.baseurl}}/privacy/index.html "Privacy_Statement.html")  
 [PAR - Office of Navajo and Hopi Indian Relocation]({{site.baseurl}}/assets/documents/budget-and-performance/ONHIR.FY2018.PAR.pdf) pdf  
@@ -107,4 +108,4 @@ redirect_from:
 [Web\_Accessibility Page]({{site.baseurl}}/Web-Accessibility.html "Web_Accessibility")  
 [Whistleblower Disclosure]({{site.baseurl}}/eeo/index.html)  
 
-update: 4/13/2018
+update: 07/06/2019
