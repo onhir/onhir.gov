@@ -5,7 +5,7 @@ sidenav: true
 ---
 
 
-The Office of Navajo and Hopi Indian Relocation (ONHIR) is an independent agency in the Executive Branch established for the purpose of accomplishing the relocation of certain members of the Navajo and Hopi Indian Tribes pursuant to [Public Law 93-531](../N-H-Settlement-Act-titled.pdf "Settlement Act pdf") (as amended), 25 USC §640d. This enabling legislation established the agency under the name of the Navajo and Hopi Indian Relocation Commission (NHIRC). Subsequent legislation changed the name to the Office of Navajo and Hopi Indian Relocation (ONHIR).
+The Office of Navajo and Hopi Indian Relocation (ONHIR) is an independent agency in the Executive Branch established for the purpose of accomplishing the relocation of certain members of the Navajo and Hopi Indian Tribes pursuant to [Public Law 93-531](../assets/N-H-Settlement-Act-titled.pdf "Settlement Act pdf") (as amended), 25 USC §640d. This enabling legislation established the agency under the name of the Navajo and Hopi Indian Relocation Commission (NHIRC). Subsequent legislation changed the name to the Office of Navajo and Hopi Indian Relocation (ONHIR).
 
 The Office is located at 201 E. Birch Avenue, Flagstaff, Arizona. Two satellite offices are maintained in Sanders, Arizona and Chambers, Arizona.
 
