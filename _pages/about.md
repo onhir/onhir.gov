@@ -1,4 +1,4 @@
-﻿---
+---
 title: About Us
 layout: page
 sidenav: true
