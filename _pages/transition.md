@@ -14,7 +14,7 @@ sidenav: true
 
 [Range Information Page](range/index.html)
 
-[Intragovernmental Use Agreement]({{site.baseurl}}/assets/documents/transition/Intragovernmental Use Agreement/Index.html) 10/17/2018
+[Intragovernmental Use Agreement]({{site.baseurl}}/transitiona-intragovernmental-use-agreement.md) 10/17/2018
 
 [Homesite Totals]({{site.baseurl}}/assets/documents/transition/HOMESITES-TOTALS.pdf) pdf as of 9/17/2018
 
