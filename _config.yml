@@ -54,7 +54,7 @@ dap_agency: GSA
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
 searchgov:
-  affiliate: federalist
+  affiliate: onhir
   inline: false
 
 ##########################################################################################

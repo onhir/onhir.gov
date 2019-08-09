@@ -5,11 +5,11 @@ sidenav: true
 ---
 
 
-The Office of Navajo and Hopi Indian Relocation (ONHIR) is an independent agency in the Executive Branch established for the purpose of accomplishing the relocation of certain members of the Navajo and Hopi Indian Tribes pursuant to [Public Law 93-531](../assets/documents/N-H-Settlement-Act-titled.pdf "Settlement Act pdf") (as amended), 25 USC §640d. This enabling legislation established the agency under the name of the Navajo and Hopi Indian Relocation Commission (NHIRC). Subsequent legislation changed the name to the Office of Navajo and Hopi Indian Relocation (ONHIR).
+The Office of Navajo and Hopi Indian Relocation (ONHIR) is an independent agency in the Executive Branch established for the purpose of accomplishing the relocation of certain members of the Navajo and Hopi Indian Tribes pursuant to [Public Law 93-531]({{site.baseurl}}/assets/documents/N-H-Settlement-Act-titled.pdf "Settlement Act pdf") (as amended), 25 USC §640d. This enabling legislation established the agency under the name of the Navajo and Hopi Indian Relocation Commission (NHIRC). Subsequent legislation changed the name to the Office of Navajo and Hopi Indian Relocation (ONHIR).
 
 The Office is located at 201 E. Birch Avenue, Flagstaff, Arizona. Two satellite offices are maintained in Sanders, Arizona and Chambers, Arizona.
 
-**[How to File a FOIA Request](../assets/documents/foia/How%20to%20File%20a%20FOIA%20Request.pdfHow%20to%20File%20a%20FOIA%20Request.pdf "How to File a FOIA Request.pdf")** (pdf 109kb)
+**[How to File a FOIA Request]({{site.baseurl}}/assets/documents/foia/How%20to%20File%20a%20FOIA%20Request.pdf "How to File a FOIA Request.pdf")** (pdf 109kb)
 
 The Freedom of Information Act (FOIA) can be found at 5 USC 552. This law, enacted in 1966 provides that any person has the right to access federal records or information. Agencies of the United States Government are required to disclose records upon receiving a written request for them, except for those records which are protected by the nine exemptions and three exclusions under FOIA.
 
@@ -23,4 +23,4 @@ The vast majority of our FOIA requests contain Personally Identifiable Informati
 
 Contact:  Scott Kuhr, Privacy Officer  928-779-2721   [skuhr@onhir.gov](mailto:skuhr@onhir.gov)
 
-Updated: 03/01/2018
+Updated: 08/09/2019

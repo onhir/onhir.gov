@@ -32,8 +32,8 @@ How is this new?  These data sets present information in a machine accessible, 
 
 > **Status of Relocation Efforts**.  This data-set indicates how many applications for relocation have been certified as eligible, and how many have been denied.  Of those that have been deemed eligible, this data-set indicates the present status of those eligible clients.  This data-set will be updated quarterly.
 > 
-> *   [Monthly Status Report - Updated Quarterly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.pdf "Monthly Status Report") (pdf)rev. 4/2018
-> *   [Monthly Status Report - Updated Quarterly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.xls "Monthly Status Report - Updated Qrtyl - XLS") (xls)rev. 4/2018
+> *   [Monthly Status Report - Updated Quarterly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.pdf "Monthly Status Report") (pdf)rev. 7/15/2019
+> *   [Monthly Status Report - Updated Quarterly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.xls "Monthly Status Report - Updated Qrtyl - XLS") (xls)rev. 7/15/2019
 > 
 > **Annual Reports and Budget Documents**.  ONHIR will provide the most current budget reports submitted to Congress so the general public can see where funding has been requested. 
 
