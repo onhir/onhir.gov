@@ -23,4 +23,4 @@ The vast majority of our FOIA requests contain Personally Identifiable Informati
 
 Contact:  Scott Kuhr, Privacy Officer  928-779-2721   [skuhr@onhir.gov](mailto:skuhr@onhir.gov)
 
-Updated: 03/01/2018
+Updated: 08/09/2019

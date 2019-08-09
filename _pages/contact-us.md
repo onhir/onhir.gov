@@ -21,7 +21,7 @@ redirect_from:
 ***If you do not have a lawyer representing you, please call one of the above Eligibility Application Staff.***
 
 **<u>Mailing Address:</u>**                                                                      
-***Office of Navajo and Hopi Indian Relocation** **Office of Navajo and Hopi Indian Relocation***  
+***Office of Navajo and Hopi Indian Relocation***  
 P.O. Box KK  
 Flagstaff, AZ  86002                                                           
 (928) 779-2721  
@@ -32,7 +32,8 @@ Fax: (928) 774-1977
 **<u>Physical Address:</u>**  
 201 E. Birch Ave  
 Suite 11  
-Flagstaff, AZ  86001  
+Flagstaff, AZ  86001 
+1-928-779-2721
 TTY 1-800-877-8339  
 
 **<u>Other Staff Contacts</u>**
@@ -41,7 +42,6 @@ TTY 1-800-877-8339
 **Christopher Bavasi     **[cjbavasi@onhir.gov](mailto:cjbavasi@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **FINANCE**  
-
 **Nancy Thomas,CFO** [nthomas@onhir.gov](mailto:nthomas@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **HUMAN RESOURCES**  
@@ -73,4 +73,4 @@ TTY 1-800-877-8339
 **Danny Lee        **[dlee@onhir.gov](mailto:dlee@onhir.gov?subject=Contact%20from%20ONHIR%20Website)  
 **Clarence Bedonie   **[cbedonie@onhir.gov](mailto:cbedonie@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
-updated: 3/5/2014
+updated: 08/08/2019
