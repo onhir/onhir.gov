@@ -6,7 +6,7 @@ sidenav: true
 
 [![Open Gov](https://www.onhir.gov/images/opengov_badge_v6.jpg)](https://www.data.gov)
 
-Welcome to the ONHIR's Open Government Web page.  This page includes important ONHIR data sets and information to help the American public better understand the work of the agency and contribute ideas that will promote the effectiveness and efficiency of [our mission](Mission.html "Mission").    The information on this page complements the many other Federal agency data sets located at  https://data.gov.
+Welcome to the ONHIR's Open Government Web page.  This page includes important ONHIR data sets and information to help the American public better understand the work of the agency and contribute ideas that will promote the effectiveness and efficiency of [our mission]({{site.baseurl}}/Mission.html "Mission").    The information on this page complements the many other Federal agency data sets located at  https://data.gov.
 
 **OPEN GOVERNMENT PLAN**
 
@@ -18,7 +18,7 @@ Welcome to the ONHIR's Open Government Web page.  This page includes important 
 > 
 > As part of the Transparency Initiative, the Office will include our [Strategic Plans (GPRA)]({{site.baseurl}}/assets/documents/budget-and-performance/GPRA%20Multiyear.pdf "Strategic Plans"), and [Performance and Accountability Report]({{site.baseurl}}/assets/documents/budget-and-performance/ONHIR.FY2018.PAR.pdf) for general public viewing.  In addition, ONHIR plans to include more oft-requested information on this website as [Data-Sets](#DataSets "Link to Data Sets").
 > 
-> **Participation**.  ONHIR will continue to solicit advice from experts both inside and outside of the federal government in fulfilling our mission.  In addition, the Office will inform the general public of what is [required in being a contractor]({{site.basurl}}/assets/documents/readingroom/Requirements-for-Contractors.html "Requirements for Contractors") with ONHIR for the building of relocation homes.  The Office will also include a list of the [normal requirements that must be met before a house can be built]({{site.baseurl}}/assets/documents/readingroom/Requirements-for-Contractors.html "Requirements to build house") for or purchased by an eligible family.  
+> **Participation**.  ONHIR will continue to solicit advice from experts both inside and outside of the federal government in fulfilling our mission.  In addition, the Office will inform the general public of what is [required in being a contractor]({{site.basurl}}/readingroom/Requirements-for-Contractors.html "Requirements for Contractors") with ONHIR for the building of relocation homes.  The Office will also include a list of the [normal requirements that must be met before a house can be built]({{site.baseurl}}/readingroom/Requirements-for-Contractors.html "Requirements to build house") for or purchased by an eligible family.  
 > 
 > **Collaboration**.  ONHIR provided a [Tribal Consultation Initiative]({{site.baseurl}}/readingroom/OMB-Tribal-Consultation-Initiative.html) to the Office of Management and Budget in February 2010, indicating how we collaborate with the Navajo Nation, the Hopi Tribe, and various sub-levels of these two tribal entities on a daily basis.  ONHIR is committed to this collaboration and has found innovative ways to accomplish our goals.  The Office will continue to respond to any public requests for information and monitor any suggestions from the general public via an email system on our official ONHIR website that receives, tracks, and responds to input, both for FOIA requests and other items.
 
