@@ -6,7 +6,7 @@ sidenav: true
 
 [![Open Gov](https://www.onhir.gov/images/opengov_badge_v6.jpg)](https://www.data.gov)
 
-Welcome to the ONHIR's Open Government Web page.  This page includes important ONHIR data sets and information to help the American public better understand the work of the agency and contribute ideas that will promote the effectiveness and efficiency of [our mission](Mission.html "Mission").    The information on this page complements the many other Federal agency data sets located at  https://data.gov.
+Welcome to the ONHIR's Open Government Web page.  This page includes important ONHIR data sets and information to help the American public better understand the work of the agency and contribute ideas that will promote the effectiveness and efficiency of [our mission]({{site.baseurl}}/Mission.html "Mission").    The information on this page complements the many other Federal agency data sets located at  https://data.gov.
 
 **OPEN GOVERNMENT PLAN**
 
@@ -24,7 +24,7 @@ Welcome to the ONHIR's Open Government Web page.  This page includes important 
 
 **Our Data-Sets:**
 
-**What makes this a high-value data set?**   These data sets can be used to increase agency accountability, [improve public knowledge of the agency]({{site.baseurl}}/assets/documents/N-H-Settlement-Act-titled.pdf "Information on Agency")(PL93-531) and it's operations, and further the [agency's mission](Mission.html "Agency's Mission Statement").
+**What makes this a high-value data set?**   These data sets can be used to increase agency accountability, [improve public knowledge of the agency]({{site.baseurl}}/assets/documents/N-H-Settlement-Act-titled.pdf "Information on Agency")(PL93-531) and it's operations, and further the [agency's mission]({{site.baseurl}}/Mission.html "Agency's Mission Statement").
 
 How is this new?  These data sets present information in a machine accessible, downloadable format, which has not been previously available to the public.
 
