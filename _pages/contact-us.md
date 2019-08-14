@@ -23,7 +23,7 @@ redirect_from:
 **<u>Mailing Address:</u>**                                                                      
 ***Office of Navajo and Hopi Indian Relocation***  
 P.O. Box KK  
-Flagstaff, AZ  86002                                                           
+Flagstaff, AZ  86002
 (928) 779-2721  
 1-800-321-3114  
 Fax: (928) 774-1977  
