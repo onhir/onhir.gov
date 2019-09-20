@@ -9,7 +9,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 **Equal Employment Opportunity (EEO)**
 *   [Commitment Policy]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 9/17/2019
 *   [Reasonable Accommodation Policy]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation%20Policy.pdf)  pdf
-*   [Alternative Dispute Resolution Policy]({{site.baseurl}}/assets/documents/eeo/Alternative-Dispute-Resolution-Procedures.pdf)  pdf 8/23/2019
+*   [Alternative Dispute Resolution Policy]({{site.baseurl}}/assets/documents/eeo/Alternative-Dispute-Resolution-Policy.pdf)  pdf 8/23/2019
 *   [Discrimination Complaint Process](EEO-DISCRIMINATION-COMPLAINT-PROCESS.html)
 *   [Sexual Harassment Policy](eeo-sexual-harassment-policy.htm)
 *   [PAS Procedures]({{site.baseurl}}/assets/documents/eeo/PAS.pdf)  pdf
