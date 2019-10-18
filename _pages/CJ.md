@@ -4,6 +4,7 @@ layout: page
 sidenav: true
 redirect_from:
     - /CJ.html
+    - /CJ/
 ---
 
 CONGRESSIONAL JUSTIFICATION
