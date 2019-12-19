@@ -18,4 +18,4 @@ sidenav: true
 * [Report and Plan December 22 1974 - Part 2 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan_
 December_22_1974_Part_2_of_3.pdf "Report and Plan December 22 1974 - Part 2 of 3")
 * [Report and Plan December 22 1974 - Part 3 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan_
-December_22_1974_Part_3_of_3.pdf "Report and Plan December 22 1974 - Part 3 of 3")
+December_22_1974-Part_3_of_3.pdf "Report and Plan December 22 1974 - Part 3 of 3")
