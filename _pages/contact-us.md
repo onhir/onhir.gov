@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 **If you're a Client of ONHIR – Call your Specialist    **  
-***Arlene Coleman extension  #168  [acolema@onhir.gov](mailto:acolema@onhir.gov)          ***  
-***Nora Louis         extension  #148  [nlouis@onhir.gov](mailto:nlouis@onhir.gov)             ***  
+***Arlene Coleman extension  #168  [acolema@onhir.gov](mailto:acolema@onhir.gov)          ***   
 
 **If you have an Eligibility Application Pending  - Call**  
 ***Joseph Shelton  extension  #151   [jshelto@onhir.gov](mailto:jshelto@onhir.gov)***  
@@ -53,11 +52,8 @@ TTY 1-800-877-8339
 **LEGAL**  
 **Larry Ruzow       **[laruzow@onhir.gov](mailto:laruzow@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
-**CONTRACTING**  
-**Anna Hernandez     **[ahernan@onhir.gov](mailto:ahernan@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
-
 **RELOCATION OPERATIONS**  
-**Gary Louis       **[glouis@onhir.gov](mailto:glouis@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
+**Jim McCauley       **[jmccaul@onhir.gov](mailto:jmccaul@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **Webmaster:  [webmaster@onhir.gov](mailto:webmaster@onhir.gov?subject=Public%20Inquiry%20from%20ONHIR%20Website)**
 
@@ -70,7 +66,7 @@ TTY 1-800-877-8339
 *
 
 **REMOTE OFFICE - Chambers, AZ**  
-**Danny Lee        **[dlee@onhir.gov](mailto:dlee@onhir.gov?subject=Contact%20from%20ONHIR%20Website)  
-**Clarence Bedonie   **[cbedonie@onhir.gov](mailto:cbedonie@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
+**Leonard Tsinnie        **[ltsinnie@onhir.gov](mailto:ltsinnie@onhir.gov?subject=Contact%20from%20ONHIR%20Website)  
 
-updated: 08/08/2019
+
+updated: 1/22/2020
