@@ -21,11 +21,11 @@ All Documents are PDFs
 
 [New Lands Development Costs Summary]({{site.baseurl}}/assets/documents/transition/finance/New-Lands-Development-Costs-Summary-072010.pdf) (as of 03/25/2019)
 
-[New Lands Electronic Assets]({{site.baseurl}}/assets/documents/transition/finance/New-Lands-Electronic-Assets.pdf) (as of 8/15/2018)
+[New Lands Electronic Assets]({{site.baseurl}}/assets/documents/transition/finance/New-Lands-Electronic-Assets.pdf) (as of 1/25/2020)
 
 [Padres Mesa Demonstration Ranch Cost]({{site.baseurl}}/assets/documents/transition/finance/Padres-Mesa-Demonstration-Ranch-Costs.pdf) (as of 03/13/2019)
 
 [Tagged New Lands Assets]({{site.baseurl}}/assets/documents/transition/finance/Tagged-New-Lands-Assets-Inventory.pdf) (as of 3/13/2019)
 
 
-updated 04/13/2019
+updated 01/25/2020
