@@ -81,6 +81,11 @@ redirect_from:
 [ONHIR 1990 Plan Update (pdf)]({{site.baseurl}}/assets/documents/readingroom/ONHIR_1990_Plan_Update.pdf "ONHIR 1990 Plan Update")   
 [OMB\_Tribal\_Consultation\_Initiative]({{site.baseurl}}/readingroom/OMB-Tribal-Consultation-Initiative.html "OMB_Tribal_Consultation_Initiative") pdf  
 [Open Government Page]({{site.baseurl}}/open/index.html "Open Gov")  
+[Report and Plan December 22 1974 - Part 1 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-December_22_1974_Part_1_of_3.pdf "Report and Plan December 22 1974 - Part 1 of 3")  
+[Report and Plan December 22 1974 - Part 2 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan_
+December_22_1974_Part_2_of_3.pdf "Report and Plan December 22 1974 - Part 2 of 3")  
+[Report and Plan December 22 1974 - Part 3 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-
+December_22_1974-Part_3_of_3.pdf "Report and Plan December 22 1974 - Part 3 of 3")  
 [Other Links Page]({{site.baseurl}}/other-links/index.html "Other Links")  
 
 # P 
