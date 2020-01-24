@@ -81,12 +81,7 @@ redirect_from:
 [ONHIR 1990 Plan Update (pdf)]({{site.baseurl}}/assets/documents/readingroom/ONHIR_1990_Plan_Update.pdf "ONHIR 1990 Plan Update")   
 [OMB\_Tribal\_Consultation\_Initiative]({{site.baseurl}}/readingroom/OMB-Tribal-Consultation-Initiative.html "OMB_Tribal_Consultation_Initiative") pdf  
 [Open Government Page]({{site.baseurl}}/open/index.html "Open Gov")  
-[Report and Plan December 22 1974 - Part 1 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-December_22_1974_Part_1_of_3.pdf "Report and Plan December 22 1974 - Part 1 of 3")  
-[Report and Plan December 22 1974 - Part 2 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan_
-December_22_1974_Part_2_of_3.pdf "Report and Plan December 22 1974 - Part 2 of 3")  
-[Report and Plan December 22 1974 - Part 3 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-
-December_22_1974-Part_3_of_3.pdf "Report and Plan December 22 1974 - Part 3 of 3")  
-[Other Links Page]({{site.baseurl}}/other-links/index.html "Other Links")  
+[Other Links Page]({{site.baseurl}}/other-links/index.html "Other Links") 
 
 # P 
 
@@ -104,6 +99,9 @@ December_22_1974-Part_3_of_3.pdf "Report and Plan December 22 1974 - Part 3 of 3
 [Recovery Page]({{site.baseurl}}/recovery/index.html "Recovery Page")  
 [Reasonable\_Accommondation\_Policy Page]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation%20Policy.pdf)  
 [Reduce the use of Social Security Numbers]({{site.baseurl}}/assets/documents/privacy/FISMA-20-Reduce-use-of-Social-Security-Number-Policy-Procedure.pdf)  
+[Report and Plan December 22 1974 - Part 1 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-December_22_1974_Part_1_of_3.pdf "Report and Plan December 22 1974 - Part 1 of 3")  
+[Report and Plan December 22 1974 - Part 2 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan_December_22_1974_Part_2_of_3.pdf "Report and Plan December 22 1974 - Part 2 of 3")  
+[Report and Plan December 22 1974 - Part 3 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-December_22_1974-Part_3_of_3.pdf "Report and Plan December 22 1974 - Part 3 of 3")  
 
 # T 
 
@@ -114,4 +112,4 @@ December_22_1974-Part_3_of_3.pdf "Report and Plan December 22 1974 - Part 3 of 3
 [Web\_Accessibility Page]({{site.baseurl}}/Web-Accessibility.html "Web_Accessibility")  
 [Whistleblower Disclosure]({{site.baseurl}}/eeo/index.html)  
 
-update: 07/06/2019
+update: 01/25/2020
