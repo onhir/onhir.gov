@@ -9,7 +9,7 @@ The Office of Navajo and Hopi Indian Relocation (ONHIR) is an independent agency
 
 The Office is located at 201 E. Birch Avenue, Flagstaff, Arizona. Two satellite offices are maintained in Sanders, Arizona and Chambers, Arizona.
 
-**[How to File a FOIA Request]({{site.baseurl}}/assets/documents/foia/How%20to%20File%20a%20FOIA%20Request.pdf "How to File a FOIA Request.pdf")** (pdf 109kb)
+**[How to File a FOIA Request]({{site.baseurl}}/assets/documents/foia/ONHIR-FOIA-Request.pdf "How to File a FOIA Request.pdf")** (pdf 109kb)
 
 The Freedom of Information Act (FOIA) can be found at 5 USC 552. This law, enacted in 1966 provides that any person has the right to access federal records or information. Agencies of the United States Government are required to disclose records upon receiving a written request for them, except for those records which are protected by the nine exemptions and three exclusions under FOIA.
 
