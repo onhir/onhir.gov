@@ -7,6 +7,8 @@ redirect_from:
     - /foia/Archives/
 ---
 
+2019 Annual Foia Report [(pdf)]({{site.baseurl}}/assets/documents/foia/archives/FOIA--FY2019-Report.pdf) [(xml)]({{site.baseurl}}/assets/documents/foia/archives/ONHIR-Foia-Annual-2019-Report.xml)
+
 2018 Annual Foia Report [(pdf)]({{site.baseurl}}/assets/documents/foia/archives/FOIA--FY2018-Report.pdf) [(xml)]({{site.baseurl}}/assets/documents/foia/archives/ONHIR-Foia_Annual-2018-Report.xml)
 
 2017 Annual FOIA Report [(pdf)]({{site.baseurl}}/assets/documents/foia/archives/FOIA--FY2017-Report.pdf) [(xml)]({{site.baseurl}}/assets/documents/foia/archives/ONHIR-Foia-Annual_2017-Report.xml)
