@@ -16,7 +16,7 @@ sidenav: true
 
 [Intragovernmental Use Agreement]({{site.baseurl}}/transitiona-intragovernmental-use-agreement/) 10/17/2018
 
-[Homesite Totals]({{site.baseurl}}/assets/documents/transition/HOMESITES-TOTALS.pdf) pdf as of 9/17/2018
+[Homesite Totals]({{site.baseurl}}/assets/documents/transition/HOMESITES-TOTALS.pdf) pdf as of 03/01/2020
 
 [New Lands Records Series/Index]({{site.baseurl}}/assets/documents/transition/New-Lands-Records-Series-Index.pdf) pdf 10/04/2018
 
