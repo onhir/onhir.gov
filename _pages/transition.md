@@ -6,7 +6,7 @@ sidenav: true
 
 [Finance Information Page](finance/index.html) updated as of 03/25/2019
 
-[Lease Information Page](lease/index.html)
+[Lease Information Page](lease/index.html) updated as of 03/01/2020
 
 [Maps Page](maps/index.html)
 
@@ -20,4 +20,4 @@ sidenav: true
 
 [New Lands Records Series/Index]({{site.baseurl}}/assets/documents/transition/New-Lands-Records-Series-Index.pdf) pdf 10/04/2018
 
-Updated: 04/18/2019
+Updated: 03/01/2020
