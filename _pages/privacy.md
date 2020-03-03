@@ -17,18 +17,6 @@ Office of Navajo and Hopi Indian Relocation information systems are protected by
 
 For additional information about EINSTEIN capabilities, please see the EINSTEIN program-related Privacy Impact Assessments available on the DHS cybersecurity privacy website (https://www.dhs.gov/files/publications/editorial\_0514.shtm#4) along with other information about the federal government’s cybersecurity activities.
 
-Privacy Officers
-----------------
-
-Officals
-
-Officer
-
-Address
-
-Phone
-
-E-mail
 
 Senior Agency Offical for Privacy
 
@@ -44,7 +32,7 @@ Flagstaff, AZ  86002
 
 Privacy Act Officer
 
-Scott Kuhr
+Larry A Ruzow
 
 PO Box KK
 
@@ -52,6 +40,6 @@ Flagstaff, AZ  86002
 
 (P) 928-779-2721
 
-[skuhr@onhir.gov](mailto:skuhr@onhir.gov)
+[laruzow@onhir.gov](mailto:laruzow@onhir.gov)
 
-Updated: 10/04/2018
+Updated: 03/01/2020
