@@ -9,7 +9,7 @@ redirect_from:
     - /No-Fear-Act-Notice/
 ---
 
-**DATES:**  This notice is effective January 18, 2018
+**DATES:**  This notice is effective January 1, 2020 through December 31, 2020
 
 **SUPPLEMENTARY INFORMATION:**
 
