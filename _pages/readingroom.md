@@ -15,5 +15,5 @@ sidenav: true
 * [Current Agency Actions Regarding Eligibility]({{site.baseurl}}/eligibility/index.html)
 * [ONHIR 1990 Plan Update (pdf)]({{site.baseurl}}/assets/documents/readingroom/ONHIR_1990_Plan_Update.pdf "ONHIR 1990 Plan Update") 
 * [Report and Plan April 3, 1981 - Part 1 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-December_22_1974_Part_1_of_3.pdf "Report and Plan April 3, 1981 - Part 1 of 3")
-* [Report and Plan April 3, 1981 - Part 2 of 3 (pdf)]({{site.baseurl}}/assets/documents/Report_and_Plan_December_22_1974_Part_2_of_3.pdf "Report and Plan April 3, 1981 - Part 2 of 3")
+* [Report and Plan April 3, 1981 - Part 2 of 3 (pdf)]({{site.baseurl}}/assets/documents/Report_and_Plan_December_22_1974_Part_2_of_3.pdf  "Report and Plan April 3, 1981 - Part 2 of 3")
 * [Report and Plan April 3, 1981 - Part 3 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-December_22_1974-Part_3_of_3.pdf "Report and Plan April 3, 1981 - Part 3 of 3")
