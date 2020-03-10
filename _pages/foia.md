@@ -23,4 +23,4 @@ The vast majority of our FOIA requests contain Personally Identifiable Informati
 
 Contact:  Larry Ruzow, Privacy Officer  928-779-2721   [laruzow@onhir.gov](mailto:laruzow@onhir.gov)
 
-Updated: 02/27/2020
+Updated: 03/10/2020
