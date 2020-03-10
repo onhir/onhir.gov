@@ -6,7 +6,7 @@ redirect_from:
     - /foia/Chief/index.html
 ---
 
-2020 Chief FOIA Officer Report [pdf]({{site.baseurl}}/assets/documents/foia/chief/2020%20Chief%20FOIA%20Officer%20Report.pdf) 
+2020 Chief FOIA Officer Report [pdf]({{site.baseurl}}/assets/documents/foia/chief/2020%20Chief%20FOIA%20Officer%20Report.pdf)  
 2019 Chief FOIA Officer Report [pdf]({{site.baseurl}}/assets/documents/foia/chief/2019%20Chief%20FOIA%20Officer%20Report.pdf)  
 2018 Chief FOIA Officer Report [pdf]({{site.baseurl}}/assets/documents/foia/chief/2018%20Chief%20FOIA%20Officer%20Report.pdf)  
 2017 Chief FOIA Officer Report [pdf]({{site.baseurl}}/assets/documents/foia/chief/2017%20Chief%20FOIA%20Officer%20Report.pdf)  
