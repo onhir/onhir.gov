@@ -24,7 +24,7 @@ Current Available Documents
 
 [Turquoise Ranch Parcel.pdf]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/Turquoise_Ranch_Parcel.pdf)
 
-[Wallace Document]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/wallace-docs.pdf)
+[Wallace Document and Tierra Underwriting Corporation and State of Arizona Reconveyance Deeds]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/wallace-docs.pdf)
 
 
 updated 03/20/2020
