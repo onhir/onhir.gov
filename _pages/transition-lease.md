@@ -6,7 +6,7 @@ redirect_from:
     - /transition/lease/
 --- 
 
-[ONHIR Leases, Property and Agreements List]({{site.baseurl}}/assets/documents/transition/lease/ONHIR%20Leases,%20Property%20and%20Agreements%20List(1).xls) .xls  03/18/2020
+[ONHIR Leases, Property and Agreements List]({{site.baseurl}}/assets/documents/transition/lease/ONHIR_Leases,_Property_and_Agreements_List.xls) .xls  03/20/2020
 
 [25 USC 640d 10]({{site.baseurl}}/assets/documents/transition/lease/25_USC_640d-10.pdf)
 
