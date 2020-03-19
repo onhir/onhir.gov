@@ -20,11 +20,11 @@ Current Available Documents
 
 [Spurlock and Santa Fe Minerals]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/spurlock-and-santa-fe-minerals.pdf)
 
-[Wallace Document]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/wallace-docs.pdf)
-
 [Tse Bonito Property]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/Tse_Bonito_Property.pdf)
 
 [Turquoise Ranch Parcel.pdf]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/Turquoise_Ranch_Parcel.pdf)
+
+[Wallace Document]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/wallace-docs.pdf)
 
 
 updated 03/20/2020
