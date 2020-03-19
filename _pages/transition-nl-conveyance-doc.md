@@ -26,5 +26,6 @@ Current Available Documents
 
 [Wallace Document and Tierra Underwriting Corporation and State of Arizona Reconveyance Deeds]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/wallace-docs.pdf)
 
+[Summary of Lands Taken into Trust]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/Summary_of_Lands_Taken_into_Trust.pdf)
 
 updated 03/20/2020
