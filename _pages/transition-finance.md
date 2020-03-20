@@ -25,7 +25,7 @@ All Documents are PDFs
 
 [Padres Mesa Demonstration Ranch Cost]({{site.baseurl}}/assets/documents/transition/finance/Padres-Mesa-Demonstration-Ranch-Costs.pdf) (as of 03/13/2019)
 
-[Tagged New Lands Assets]({{site.baseurl}}/assets/documents/transition/finance/Tagged-New-Lands-Assets-Inventory.pdf) (as of 3/13/2019)
+[Tagged New Lands Assets]({{site.baseurl}}/assets/documents/transition/finance/Tagged-New-Lands-Assets-Inventory.pdf) (as of 3/20/2020)
 
 
-updated 01/25/2020
+updated 03/20/2020
