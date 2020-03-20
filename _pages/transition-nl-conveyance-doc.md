@@ -20,7 +20,7 @@ Current Available Documents
 
 [Santa Fe Minerals]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/Santa-Fe-minerals.pdf)
 
-[Spurlock Minerals]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/Spurlock-minerals.pdf)
+[Spurlock Minerals]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/Spurlock_minerals.pdf)
 
 [Tse Bonito Property]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/Tse_Bonito_Property.pdf)
 
