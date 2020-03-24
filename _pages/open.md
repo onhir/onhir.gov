@@ -33,14 +33,14 @@ How is this new?  These data sets present information in a machine accessible, 
 > **Status of Relocation Efforts**.  This data-set indicates how many applications for relocation have been certified as eligible, and how many have been denied.  Of those that have been deemed eligible, this data-set indicates the present status of those eligible clients.  This data-set will be updated quarterly.
 > 
 > *   [Monthly Status Report - Updated Quarterly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.pdf "Monthly Status Report") (pdf)rev. 1/22/2020
-> *   [Monthly Status Report - Updated Quarterly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.xls "Monthly Status Report - Updated Qrtyl - XLS") (xls)rev. 1/22/2020
+> *   [Monthly Status Report - Updated Quarterly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.xlsx "Monthly Status Report - Updated Qrtyl - XLS") (xls)rev. 1/22/2020
 > 
 > **Annual Reports and Budget Documents**.  ONHIR will provide the most current budget reports submitted to Congress so the general public can see where funding has been requested. 
 
 **Reports to Congress**
 
 *   [Resources Requirements Budget Request csv]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Resources Requirements Budget requst csv format") (2.00kb)
-*   [Salaries and Expenses]({{site.baseurl}}/assets/documents/datasets/Cong_Salaries_and_Expenses.xls "Salaries and Expenses") \[xls\](41.0kb)
+*   [Salaries and Expenses]({{site.baseurl}}/assets/documents/datasets/Cong_Salaries_and_Expenses.xlsx "Salaries and Expenses") \[xls\](41.0kb)
 
 > **FAIR Act Information**.   ONHIR will continue to post FAIR Act information on our website so the public will be aware of staffing within the Office.  This posting is required to be updated yearly. 
 > 
