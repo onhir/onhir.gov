@@ -27,4 +27,4 @@ We have to report on our Progress and compliance with the Plain Writing Act by J
 
 [ONHIR Plain Writing Annual Report]({{site.baseurl}}/assets/documents/plain-writing/agency-compliance-report.pdf)
 
-Updated: 8/12/2019
+Updated: 3/24/2020
