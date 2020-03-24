@@ -6,7 +6,7 @@ sidenav: true
 
 [Finance Information Page](finance/index.html) updated as of 03/25/2019
 
-[Lands Acquired Pursuant to Navajo-Hopi Settlement Act]({{site.baseurl}}/transition/transition-lease/) updated as of 03/01/2020
+[Lands Acquired Pursuant to Navajo-Hopi Settlement Act]({{site.baseurl}}/transition-lease/) updated as of 03/01/2020
 
 [Maps Page](maps/index.html)
 
