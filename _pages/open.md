@@ -40,11 +40,11 @@ How is this new?  These data sets present information in a machine accessible, 
 **Reports to Congress**
 
 *   [Resources Requirements Budget Request csv]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Resources Requirements Budget requst csv format")
-> *   [Salaries and Expenses]({{site.baseurl}}/assets/documents/datasets/Cong_Salaries_and_Expenses.xlsx "Salaries and Expenses") (xlsx) 1/22/2020
+*   [Salaries and Expenses]({{site.baseurl}}/assets/documents/datasets/Cong_Salaries_and_Expenses.xlsx "Salaries and Expenses") (xlsx) 1/22/2020
 
-> **FAIR Act Information**.   ONHIR will continue to post FAIR Act information on our website so the public will be aware of staffing within the Office.  This posting is required to be updated yearly. 
+**FAIR Act Information**.   ONHIR will continue to post FAIR Act information on our website so the public will be aware of staffing within the Office.  This posting is required to be updated yearly. 
 > 
-> *   [Fair Act Information    xls]({{site.baseurl}}/assets/documents/datasets/FAIR_Act_summary_figures.xls)
+*   [Fair Act Information    xls]({{site.baseurl}}/assets/documents/datasets/FAIR_Act_summary_figures.xls)
 
 **FOIA Information**.  FOIA annual reports, as well as procedures for filing an FOIA request, will continue to be posted on our official ONHIR website.  Currently, there is no backlog of FOIA requests, and questions about FOIA items can be made by accessing the web information posted. You can review our latest  [Annual FOIA Reports]({{site.baseurl}}/foia/Archives/index.html "Annual FOIA Report") by clicking this line.
 
