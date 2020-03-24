@@ -40,7 +40,7 @@ How is this new?  These data sets present information in a machine accessible, 
 **Reports to Congress**
 
 *   [Resources Requirements Budget Request csv]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Resources Requirements Budget requst csv format") (2.00kb)
-*   [Salaries and Expenses]({{site.baseurl}}/assets/documents/datasets/Cong%20Salaries%20and%20Expenses.xls "Salaries and Expenses") \[xls\](41.0kb)
+*   [Salaries and Expenses]({{site.baseurl}}/assets/documents/datasets/Cong_Salaries_and_Expenses.xls "Salaries and Expenses") \[xls\](41.0kb)
 
 > **FAIR Act Information**.   ONHIR will continue to post FAIR Act information on our website so the public will be aware of staffing within the Office.  This posting is required to be updated yearly. 
 > 
