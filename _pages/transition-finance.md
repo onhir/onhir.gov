@@ -9,13 +9,12 @@ redirect_from:
 Current Available Documents
 All Documents are PDFs
 
-[4-year History of New Lands Range Cost]({{site.baseurl}}/assets/documents/transition/finance/Historic-Range-Costs-for-Navajo-Nat-041216.pdf) (as of 03/25/2019
+[4-year History of New Lands Range Cost]({{site.baseurl}}/assets/documents/transition/finance/Historic-Range-Costs-for-Navajo-Nation.pdf) (as of 03/25/2020)
+
+[Listing of Range Positions]({{site.baseurl}}/assets/documents/transition/finance/Range-Employee-Positions.pdf) (as of 03/25/2020
 )
 
-[Listing of Range Positions]({{site.baseurl}}/assets/documents/transition/finance/Range-Employee-Positions.pdf) (as of 03/25/2019
-)
-
-[Navajo Payments]({{site.baseurl}}/assets/documents/transition/finance/Navajo%20Payments%20as%20of%20031419.pdf) (as of 03/14/19)
+[Navajo Payments]({{site.baseurl}}/assets/documents/transition/finance/Navajo-Payments.pdf) (as of 03/14/2020)
 
 [New Lands Development costs Detail]({{site.baseurl}}/assets/documents/transition/finance/New-Lands-Development-costs-071910.pdf) (as of 03/25/2019)
 
