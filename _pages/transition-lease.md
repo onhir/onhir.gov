@@ -1,11 +1,10 @@
 ---
-title: Transition Documents - Leases
+title: LANDS ACQUIRED PURSANT TO NAVAJO-HOPI SETTLEMENT ACT
 layout: page
 sidenav: true
 redirect_from:
     - /transition/lease/
 --- 
-[     LANDS ACQUIRED PURSUANT TO NAVAJO-HOPI SETTLEMENT ACT     ]
 
 [ONHIR Leases, Property and Agreements List]({{site.baseurl}}/assets/documents/transition/lease/ONHIR_Leases,_Property_and_Agreements_List.xls) .xls  03/20/2020
 
