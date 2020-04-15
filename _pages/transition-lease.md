@@ -5,7 +5,7 @@ sidenav: true
 redirect_from:
     - /transition/lease/
 --- 
-[ONHIR Transition Information Page]({{site.baseurl}}/assets/documents/transition/lease/
+[     LANDS ACQUIRED PURSUANT TO NAVAJO-HOPI SETTLEMENT ACT     ]
 
 [ONHIR Leases, Property and Agreements List]({{site.baseurl}}/assets/documents/transition/lease/ONHIR_Leases,_Property_and_Agreements_List.xls) .xls  03/20/2020
 
