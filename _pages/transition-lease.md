@@ -5,6 +5,7 @@ sidenav: true
 redirect_from:
     - /transition/lease/
 --- 
+[ONHIR Transition Information Page]({{site.baseurl}}/assets/documents/transition/lease/
 
 [ONHIR Leases, Property and Agreements List]({{site.baseurl}}/assets/documents/transition/lease/ONHIR_Leases,_Property_and_Agreements_List.xls) .xls  03/20/2020
 
@@ -14,4 +15,4 @@ redirect_from:
 
 [S. 47--Navajo Land Selection]({{site.baseurl}}/assets/documents/transition/lease/S_47--Navajo_Land_Selection.pdf)
 
-updated 03/20/2020
+updated 03/15/2020
