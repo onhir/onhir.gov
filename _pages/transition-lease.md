@@ -14,4 +14,4 @@ redirect_from:
 
 [S. 47--Navajo Land Selection]({{site.baseurl}}/assets/documents/transition/lease/S_47--Navajo_Land_Selection.pdf)
 
-updated 03/15/2020
+updated 03/15/2020   Return to  [Transition Page]({{site.baseurl}}/assets/documents/transition/)
