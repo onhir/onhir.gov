@@ -9,10 +9,10 @@ redirect_from:
 # A
 [About Us Page]({{site.baseurl}}/about.md/ "About ONHIR Page")  
 [Appeals From Denials Page]({{site.baseurl}}/eligibility/Appeals-From-Denials.html "Appeals From Denials html page")  
-[Alternative\_Dispute\_Resolution\_Policy]({{site.baseurl}}/eeo/ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.pdf "Alternative Dispute Resolution Policy pdf") pdf  
+[Alternative_Dispute_Resolution_PolicyX]({{site.baseurl}}/eeo/ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.pdf "Alternative Dispute Resolution Policy pdfZ") pdf  
 
 # B
-[Budget\_&\_Performance Page]({{site.baseurl}}/budget-and-performance/index.html "Budget & Performance Page")  
+[Budget_&_Performance Page]({{site.baseurl}}/budget-and-performance/index.html "Budget & Performance Page")  
 
 # C 
 
@@ -31,8 +31,8 @@ redirect_from:
 
 # E
 [EEO Documents Page]({{site.baseurl}}/eeo/index.html "EEO Documents Page")  
-[EEO\_commitment\_policy Page]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf "EEO Policy Statement")  
-[EEO\_sexual\_harassment\_policy Page]({{site.baseurl}}/eeo/eeo-sexual-harassment-policy.htm "eeo_sexual_harassment_policy")  
+[EEO_commitment_policy Page]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf "EEO Policy Statement")  
+[EEO_sexual_harassment_policy Page]({{site.baseurl}}/eeo/eeo-sexual-harassment-policy.htm "eeo_sexual_harassment_policy")  
 [Eligibility Information Page]({{site.baseurl}}/eligibility/index.html "Eligibility Information")  
 [EmployeeSurvey Page]({{site.baseurl}}/employee-survey/index.html "Employee Survey(s)")  
 [EmployeeSurvey Archive Page]({{site.baseurl}}/employee-survey/Archives/Archives.html)  
@@ -42,7 +42,7 @@ redirect_from:
 [FOIA Page]({{site.baseurl}}/foia/index.html "FOIA Page")  
 [FOIA-- Chief FOIA Officer Reports]({{site.baseurl}}/foia/Chief/index.html)  
 [FOIA -- Annual Reports]({{site.baseurl}}/foia/Archives/index.html)  
-[Final\_Opinions Page]({{site.baseurl}}/policy/Final-Opinions.html "final_opinions")  
+[Final_Opinions Page]({{site.baseurl}}/policy/Final-Opinions.html "final_opinions")  
 [No Fear Act Notice]({{site.baseurl}}/eeo/No-Fear-Act-Notice.html "No Fear Act Notice")  
 [No Fear Act Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf "No Fear Act Data") pdf  
 [Fair Act Contact info]({{site.baseurl}}/assets/documents/budget-and-performance/Fair%20Act%20contact%20info.xls "Fair Act Contact Info") xls  
@@ -64,9 +64,9 @@ redirect_from:
 
 # M 
 
-[ONHIR\_Management\_Manual]({{site.baseurl}}/assets/documents/mangement-manual/ONHIR-Management-Manual.pdf "ONHIR Management Manual pdf") pdf  
-[Monthly\_Numbers\_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.pdf "Monthly Numbers Qrtly pdf - dataset") pdf dataset  
-[Monthly\_Numbers\_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.xls "Monthly Numbers Qrtly Xls doc") xls dataset  
+[ONHIR_Management_Manual]({{site.baseurl}}/assets/documents/mangement-manual/ONHIR-Management-Manual.pdf "ONHIR Management Manual pdf") pdf  
+[Monthly_Numbers_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.pdf "Monthly Numbers Qrtly pdf - dataset") pdf dataset  
+[Monthly_Numbers_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.xls "Monthly Numbers Qrtly Xls doc") xls dataset  
 [Mission Page]({{site.baseurl}}/open/Mission.html "Mission")  
 [Map to Agency]({{site.baseurl}}/assets/documents/Map-to-Agency.pdf)  
 
@@ -79,7 +79,7 @@ redirect_from:
 
 [ONHIR Home Page]({{site.baseurl}}/index.html "ONHIR Home Page")  
 [ONHIR 1990 Plan Update (pdf)]({{site.baseurl}}/assets/documents/readingroom/ONHIR_1990_Plan_Update.pdf "ONHIR 1990 Plan Update")   
-[OMB\_Tribal\_Consultation\_Initiative]({{site.baseurl}}/readingroom/OMB-Tribal-Consultation-Initiative.html "OMB_Tribal_Consultation_Initiative") pdf  
+[OMB_Tribal_Consultation_Initiative]({{site.baseurl}}/readingroom/OMB-Tribal-Consultation-Initiative.html "OMB_Tribal_Consultation_Initiative") pdf  
 [Open Government Page]({{site.baseurl}}/open/index.html "Open Gov")  
 [Other Links Page]({{site.baseurl}}/other-links/index.html "Other Links") 
 
@@ -88,20 +88,21 @@ redirect_from:
 [Plain Writing Page]({{site.baseurl}}/plain-writing/index.html "Plain Writing")  
 [Plain Writing Annual Report]({{site.baseurl}}/assets/documents/plain-writing/agency-compliance-report.pdf) pdf  
 [Privacy Imact Assessment]({{site.baseurl}}/assets/documents/privacy/PIA.pdf "PIA")   pdf  
-[Privacy\_Statement Policy Page]({{site.baseurl}}/privacy/index.html "Privacy_Statement.html")  
+[Privacy_Statement Policy Page]({{site.baseurl}}/privacy/index.html "Privacy_Statement.html")  
 [PAR - Office of Navajo and Hopi Indian Relocation]({{site.baseurl}}/assets/documents/budget-and-performance/ONHIR.FY2018.PAR.pdf) pdf  
 [Prohibited Personnel Practices (PPP)]({{site.baseurl}}/eeo/index.html)  
 
 # R 
 
 [Reading Room Page]({{site.baseurl}}/readingroom/index.html "Reading Room")  
-[Requirements\_for\_Contractors Page]({{site.baseurl}}/readingroom/Requirements-for-Contractors.html "Requirements_for_Contractors")  
+[Requirements_for_Contractors Page]({{site.baseurl}}/readingroom/Requirements-for-Contractors.html "Requirements_for_Contractors")  
 [Recovery Page]({{site.baseurl}}/recovery/index.html "Recovery Page")  
-[Reasonable\_Accommondation\_Policy Page]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation%20Policy.pdf)  
+[Reasonable_Accommondation_Policy Page]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation%20Policy.pdf)  
 [Reduce the use of Social Security Numbers]({{site.baseurl}}/assets/documents/privacy/FISMA-20-Reduce-use-of-Social-Security-Number-Policy-Procedure.pdf)  
-[Report and Plan December 22 1974 - Part 1 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-December_22_1974_Part_1_of_3.pdf "Report and Plan December 22 1974 - Part 1 of 3")  
-[Report and Plan December 22 1974 - Part 2 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan_December_22_1974_Part_2_of_3.pdf "Report and Plan December 22 1974 - Part 2 of 3")  
-[Report and Plan December 22 1974 - Part 3 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-December_22_1974-Part_3_of_3.pdf "Report and Plan December 22 1974 - Part 3 of 3")  
+[Report and Plan April 3 1981 - Part 1 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-April_3_1981_Part_1_of_3.pdf "Report and Plan April 3/1981 - Part 1 of 3")  
+
+[Report and Plan April 3 1981 - Part 2 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan_April_3_1981_Part_2_of_3.pdf "Report and Plan April 3 1981 Part 2 of 3")  
+[Report and Plan April 2 1981 - Part 3 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-April_3_1981-Part_3_of_3.pdf "Report and Plan April 3 1981 - Part 3 of 3")  
 
 # T 
 
