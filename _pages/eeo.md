@@ -7,7 +7,7 @@ sidenav: true
 If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslater@onhir.gov?subject=EEO/HR%20question20from%20onhir.gov%20link)**
 
 **Equal Employment Opportunity (EEO)**
-*   [Commitment Policy]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 9/17/2019
+*   [Commitment Policy]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 1/2020
 *   [Reasonable Accommodation Policy]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation%20Policy.pdf)  pdf
 *   [Alternative Dispute Resolution Policy]({{site.baseurl}}/assets/documents/eeo/Alternative-Dispute-Resolution-Policy.pdf) pdf 01/19/20
 *   [Discrimination Complaint Process](EEO-DISCRIMINATION-COMPLAINT-PROCESS.html)
@@ -36,4 +36,4 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 **Human Resources (HR)**
 *   [Employee Survey](../employee-survey/index.html)
 
-Updated: 03/31/2020
+Updated: 05/04/2020
