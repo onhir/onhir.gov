@@ -18,7 +18,7 @@ The mission of the Office of Navajo and Hopi Indian Relocation is to provide qua
 [Budget\_and\_Performance]({{site.baseurl}}/budget-and-performance/)
 
 
-[Regulations and Other Documents](https://www.gpo.gov "Regulations and Other Documents")
+[Regulations and Other Documents](https://tinyurl.com/ybte9ant)
 
 [HSPD-12 Reporting]({{site.baseurl}}/assets/documents/about-ONHIR/HSPD-12-Reporting.pdf) (pdf) updated 05/04/2020
 
