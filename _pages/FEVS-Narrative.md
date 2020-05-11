@@ -26,7 +26,7 @@ Based on 2019 FEVS results the agency scored particularly high percentages in th
    •	Intrinsic Work Experience - 83%:  As an employee, the work I do is 
         important, I feel encouraged to do better, 
         feel accomplished, know what’s expected of me and know how my job 
-        relates to agency goals.
+	relates to agency goals.
    
 Global Satisfaction Index:
    •	Job Satisfaction:  78% 
