@@ -18,24 +18,22 @@ The 2019 survey was administered online to ONHIR employees from May 23 to July 5
 Based on 2019 FEVS results the agency scored particularly high percentages in the following indices:
  Employee Engagement Index:  
  
-   •	Leaders Lead - 61%:   My agency’s leadership fosters motivation and 
+*•	Leaders Lead - 61%:   My agency’s leadership fosters motivation and 
         commitment; maintains high integrity; communicates the agency’s 
 	goals, and earns respect from employees.
-	
-   •	Supervisors - 70%:  My supervisor supports employee development, 
+•	Supervisors - 70%:  My supervisor supports employee development, 
         listens to me, treats me with respect, and  has my trust and confidence.
-	
-   •	Intrinsic Work Experience - 83%:  As an employee, the work I do is 
+•	Intrinsic Work Experience - 83%:  As an employee, the work I do is 
         important, I feel encouraged to do better,  feel accomplished, 
 	know what’s expected of me and know how my job relates to agency goals.
    
 Global Satisfaction Index:
 
-   •	Job Satisfaction:  78% 
-   •	Pay Satisfaction:   78%:  
-   •	Organizational Satisfaction:  63%:  
-   •	Recommend Organization: 77%:  
-   •	Work Life Program Satisfaction:   100%
+*Job Satisfaction:  78% 
+*Pay Satisfaction:   78%:  
+*Organizational Satisfaction:  63%:  
+*Recommend Organization: 77%:  
+*Work Life Program Satisfaction:   100%
    
 Those areas of the survey where there were decreases that fell below the 
 65% or more positive threshold were:
