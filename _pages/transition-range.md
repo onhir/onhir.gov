@@ -14,7 +14,7 @@ Current Available Documents (All Documents are PDFs)
 
 [Listing of New Lands Permit Holders]({{site.baseurl}}/assets/documents/transition/range/Listing-of-New-Lands-Permit-Holders.pdf) March 2019
 
-[Livestock Tally by Range Unit]({{site.baseurl}}/assets/documents/transition/range/Livestock-Tally-by-Range-Unit.pdf) March 2019
+[Livestock Tally by Range Unit]({{site.baseurl}}/assets/documents/transition/range/Livestock-Tally-by-Range-Unit.pdf) OCT 2019
 
 [Range Monitoring]({{site.baseurl}}/assets/documents/transition/range/Range%20Monitoring.pdf) December 2019
 
@@ -24,4 +24,4 @@ Current Available Documents (All Documents are PDFs)
 
 [Windmill Site Inventory]({{site.baseurl}}/assets/documents/transition/range/Windmill-Site-Inventory.pdf)
 
-updated 05/06/2020
+updated 05/12/2020
