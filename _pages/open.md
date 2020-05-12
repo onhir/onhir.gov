@@ -20,7 +20,7 @@ Welcome to the ONHIR's Open Government Web page.  This page includes important 
 > 
 > **Participation**.  ONHIR will continue to solicit advice from experts both inside and outside of the federal government in fulfilling our mission.  In addition, the Office will inform the general public of what is [required in being a contractor]({{site.basurl}}/readingroom/Requirements-for-Contractors.html "Requirements for Contractors") with ONHIR for the building of relocation homes.  The Office will also include a list of the [normal requirements that must be met before a house can be built]({{site.baseurl}}/readingroom/Requirements-for-Contractors.html "Requirements to build house") for or purchased by an eligible family.  
 > 
-> **Collaboration**.  ONHIR provided a [Tribal Consultation Initiative]({{site.baseurl}}/readingroom/OMB-Tribal-Consultation-Initiative.html) to the Office of Management and Budget in February 2010, indicating how we collaborate with the Navajo Nation, the Hopi Tribe, and various sub-levels of these two tribal entities on a daily basis.  ONHIR is committed to this collaboration and has found innovative ways to accomplish our goals.  The Office will continue to respond to any public requests for information and monitor any suggestions from the general public via an email system on our official ONHIR website that receives, tracks, and responds to input, both for FOIA requests and other items.
+> **Collaboration**.  ONHIR provided a [Tribal Consultation Initiative]({{site.baseurl}}/readingroom/OMB-Tribal-Consultation-Initiative.html) to the Office of Management and Budget in February 2010, indicating how we collaborate with the Navajo Nation, the Hopi Tribe, and various sub-levels of these two tribal entities on a daily basis.  ONHIR has regularly updated the Tribal Consultation Initiative, with the latest update as of May 1, 2020.  ONHIR is committed to this collaboration and has found innovative ways to accomplish our goals.  The Office will continue to respond to any public requests for information and monitor any suggestions from the general public via an email system on our official ONHIR website that receives, tracks, and responds to input, both for FOIA requests and other items.
 
 **Our Data-Sets:**
 
@@ -52,4 +52,4 @@ How is this new?  These data sets present information in a machine accessible, 
 
 ONHIR is  a Micro/Temporary/Non CFO reporting agency with less than 100 FTE's and as such does not have a separate IT Budget.
 
-Updated: 4/30/2020
+Updated: 5/12/2020
