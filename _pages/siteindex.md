@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 # A
-[About Us Page]({{site.baseurl}}/about.md/ "About ONHIR Page")  
+[About Us Page]({{site.baseurl}}/about.md/index.html "About ONHIR Page")  
 [Appeals From Denials Page]({{site.baseurl}}/eligibility/Appeals-From-Denials.html "Appeals From Denials html page")  
 [Alternative_Dispute_Resolution_PolicyX]({{site.baseurl}}/eeo/ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.pdf "Alternative Dispute Resolution Policy pdfZ") pdf  
 
