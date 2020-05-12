@@ -20,7 +20,7 @@ Current Available Documents (All Documents are PDFs)
 
 [Reconnaissance Report of Boundary Fences on New Lands]({{site.baseurl}}/assets/documents/transition/range/Reconnaissance-Report-of-Boundary-Fences-on-New-Lands.pdf)
 
-[Water System Inventory]({{site.baseurl}}/assets/documents/transition/range/Water-System-Inventory.pdf)
+[Water System Inventory]({{site.baseurl}}/assets/documents/transition/range/Water-System-Inventory.pdf) 4/6/2020
 
 [Windmill Site Inventory]({{site.baseurl}}/assets/documents/transition/range/Windmill-Site-Inventory.pdf)
 
