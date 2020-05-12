@@ -9,7 +9,7 @@ redirect_from:
 # A
 [About Us Page]({{site.baseurl}}/about/index.html "About ONHIR Page")  
 [Appeals From Denials Page]({{site.baseurl}}/eligibility/Appeals-From-Denials.html "Appeals From Denials html page")  
-[Alternative-Dispute-Resolution-Policy]({{site.baseurl}}/eeo/ALTERNATIVE-DISPUTE-RESOLUTION-POLICY.pdf "Alternative Dispute Resolution Policy pdf") pdf  
+[Alternative-Dispute-Resolution-Policy]({{site.baseurl}}/eeo/Alternative_Dispute_Resolution-Policy.pdf "Alternative Dispute Resolution Policy") pdf  
 
 # B
 [Budget_&_Performance Page]({{site.baseurl}}/budget-and-performance/index.html "Budget & Performance Page")  
@@ -21,9 +21,9 @@ redirect_from:
 [Contractors Requirements to build relocation houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
 [Congressional Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong  Resource Requirements") pdf  
 [Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong Salaries and Expenses") pdf  
-[Congressional_Annual_Reports]({{site.baseurl}}/assets/documents/datasets/Cong%20Salaries%20and%20Expenses.xls "Congressional_Annual_Reports") xls Dataset  
+[Congressional_Annual_Reports]({{site.baseurl}}/assets/documents/datasets/Cong_Salaries_and_Expenses.xls "Congressional_Annual_Reports") xls  
 [Cong 2010 Resource Requirements]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Cong 2010 Resource Requirements csv format") csv format  
-[ **CONTINGENCY PLAN FOR AGENCY OPERATIONS IN ABSENCE OF APPROPRIATIONS**]({{site.baseurl}}/assets/documents/readingroom/Contingency-Plan.pdf)  
+[CONTINGENCY PLAN FOR AGENCY OPERATIONS IN ABSENCE OF APPROPRIATIONS]({{site.baseurl}}/assets/documents/readingroom/Contingency-Plan.pdf)  
 
 # D 
 [DataSets]({{site.baseurl}}/open/index.html#DataSets "Data Set page from Open Government Page") on Open Government Page  
