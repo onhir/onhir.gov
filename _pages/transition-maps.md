@@ -10,7 +10,7 @@ Current Available Documents (All Documents are PDFs)
 
 [New Lands Map]({{site.baseurl}}/assets/documents/transition/maps/New-Lands-Map.pdf)
 
-[Rual Community Map]({{site.baseurl}}/assets/documents/transition/maps/Rural-Community-Map.pdf)
+[Rural Community Map]({{site.baseurl}}/assets/documents/transition/maps/Rural-Community-Map.pdf)
 
 [Windmill Site Location List]({{site.baseurl}}/assets/documents/transition/maps/Windmill-Site-Location-List.pdf)
 
