@@ -9,7 +9,7 @@ redirect_from:
 # A
 [About Us Page]({{site.baseurl}}/about/index.html "About ONHIR Page")  
 [Appeals From Denials Page]({{site.baseurl}}/eligibility/Appeals-From-Denials.html "Appeals From Denials html page")  
-[Alternative-Dispute-Resolution-Policy]({{site.baseurl}}/eeo/Alternative_Dispute_Resolution-Policy.pdf "Alternative Dispute Resolution Policy") pdf  
+[Alternative-Dispute-Resolution-Policy]({{site.baseurl}}/eeo/Alternative-Dispute-Resolution-Policy.pdf "Alternative Dispute Resolution Policy") pdf  
 
 # B
 [Budget_&_Performance Page]({{site.baseurl}}/budget-and-performance/index.html "Budget & Performance Page")  
@@ -21,7 +21,7 @@ redirect_from:
 [Contractors Requirements to build relocation houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
 [Congressional Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong  Resource Requirements") pdf  
 [Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong Salaries and Expenses") pdf  
-[Congressional_Annual_Reports]({{site.baseurl}}/assets/documents/datasets/Cong_Salaries_and_Expenses.xls "Congressional_Annual_Reports") xls  
+[Congressional_Annual_Reports]({{site.baseurl}}/assets/documents/datasets/Cong_Salaries_and_Expenses.xlsx "Congressional_Annual_Reports") xlsx  
 [Cong 2010 Resource Requirements]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Cong 2010 Resource Requirements csv format") csv format  
 [CONTINGENCY PLAN FOR AGENCY OPERATIONS IN ABSENCE OF APPROPRIATIONS]({{site.baseurl}}/assets/documents/readingroom/Contingency-Plan.pdf)  
 
@@ -47,7 +47,7 @@ redirect_from:
 [No Fear Act Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf "No Fear Act Data") pdf  
 [Fair Act Contact info]({{site.baseurl}}/assets/documents/budget-and-performance/Fair%20Act%20contact%20info.xls "Fair Act Contact Info") xls  
 [Fair Act Inventory info]({{site.baseurl}}/assets/documents/budget-and-performance/FAIR%20Act%20inventory%20info.xls "Fair Act Inventory Info") xls  
-[Fair Act Summary Figures]({{site.baseurl}}/assets/documents/datasets/FAIR_Act_summary_figures.xls "Fair Act Summary Figures") xls dataset  
+[Fair Act Summary Figures]({{site.baseurl}}/assets/documents/datasets/FAIR_Act_summary_figures.xls "Fair Act Summary Figures") xls
 
 # G  
 
@@ -65,8 +65,8 @@ redirect_from:
 # M 
 
 [ONHIR_Management_Manual]({{site.baseurl}}/assets/documents/mangement-manual/ONHIR-Management-Manual.pdf "ONHIR Management Manual pdf") pdf  
-[Monthly_Numbers_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.pdf "Monthly Numbers Qrtly pdf - dataset") pdf dataset  
-[Monthly_Numbers_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.xls "Monthly Numbers Qrtly Xls doc") xls dataset  
+[Monthly_Numbers_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.pdf "Monthly Numbers Qrtly pdf")
+[Monthly_Numbers_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.xlsx "Monthly Numbers Qrtly xlsx")
 [Mission Page]({{site.baseurl}}/open/Mission.html "Mission")  
 [Map to Agency]({{site.baseurl}}/assets/documents/Map-to-Agency.pdf)  
 
