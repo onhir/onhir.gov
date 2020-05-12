@@ -19,6 +19,7 @@ redirect_from:
 [Contact-Us]({{site.baseurl}}/contact-us.html "Contact Us")  
 [Congressional Justification]({{site.baseurl}}/CJ/ "Congressional Justification")  
 [Contractors Requirements to build relocation houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
+
 [Congressional Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong  Resource Requirements") pdf  
 [Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong Salaries and Expenses") pdf  
 [Congressional_Annual_Reports]({{site.baseurl}}/assets/documents/datasets/Cong_Salaries_and_Expenses.xlsx "Congressional_Annual_Reports") xlsx  
@@ -64,10 +65,12 @@ redirect_from:
 
 # M 
 
-[ONHIR_Management_Manual]({{site.baseurl}}/assets/documents/mangement-manual/ONHIR-Management-Manual.pdf "ONHIR Management Manual pdf") pdf  
-[Monthly_Numbers_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.pdf "Monthly Numbers Qrtly pdf") 
+[ONHIR_Management_Manual]({{site.baseurl}}/assets/documents/mangement-manual/ONHIR-Management-Manual.pdf 
+"ONHIR Management Manual pdf") pdf  
+[Monthly_Numbers_Qrtly - PDF]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.pdf "Monthly Numbers Qrtly pdf") 
 
-[Monthly_Numbers_Qrtly]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.xlsx "Monthly Numbers Qrtly xlsx")
+[Monthly_Numbers_Qrtly - xlsx]({{site.baseurl}}/assets/documents/datasets/Monthly_Numbers_Qrtly.xlsx "Monthly Numbers Qrtly xlsx")
+
 [Mission Page]({{site.baseurl}}/open/Mission.html "Mission")  
 [Map to Agency]({{site.baseurl}}/assets/documents/Map-to-Agency.pdf)  
 
