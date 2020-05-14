@@ -9,7 +9,7 @@ Thank you for visiting the Office of Navajo and Hopi Indian Relocation Website a
 
 Our privacy policy is clear:      We will collect no personal information about you when you visit our website.
 
-[Privacy Impact Assessment (PIA) Guide]({{site.baseurl}}/assets/documents/privacy/PIA.pdf "PIA document") ![Adobe Reader PDF icon]({{site.baseurl}}/assets/images/pdficon.gif)  [Reduce The Use of Social Security Numbers]({{site.baseurl}}/assets/documents/privacy/FISMA-20-Reduce-use-of-Social-Security-Number-Policy-Procedure.pdf) ![Adobe Reader PDF icon]({{site.baseurl}}/assets/images/pdficon.gif)
+[Privacy Impact Assessment (PIA) of ONHIR]({{site.baseurl}}/assets/documents/privacy/PIA.pdf "PIA document") ![Adobe Reader PDF icon]({{site.baseurl}}/assets/images/pdficon.gif)  [Reduce The Use of Social Security Numbers]({{site.baseurl}}/assets/documents/privacy/FISMA-20-Reduce-use-of-Social-Security-Number-Policy-Procedure.pdf) ![Adobe Reader PDF icon]({{site.baseurl}}/assets/images/pdficon.gif)
 
 Our [Privacy Act System of Records and Notices](https://www.federalregister.gov/agencies/navajo-and-hopi-indian-relocation-office "Privacy Act System of Records and Notices") (SORNs) identifies systems that contain Personally Identifiable Information (PII).
 
@@ -18,28 +18,18 @@ Office of Navajo and Hopi Indian Relocation information systems are protected by
 For additional information about EINSTEIN capabilities, please see the EINSTEIN program-related Privacy Impact Assessments available on the DHS cybersecurity privacy website (https://www.dhs.gov/files/publications/editorial\_0514.shtm#4) along with other information about the federal government’s cybersecurity activities.
 
 
-Senior Agency Offical for Privacy
-
+Senior Agency Official for Privacy
 Nancy Thomas
-
 PO Box KK
-
 Flagstaff, AZ  86002
-
 (P) 982-779-2721
-
 [nthomas@onhir.gov](mailto:nthomas@onhir.gov)
 
 Privacy Act Officer
-
 Larry A Ruzow
-
 PO Box KK
-
 Flagstaff, AZ  86002
-
 (P) 928-779-2721
-
 [laruzow@onhir.gov](mailto:laruzow@onhir.gov)
 
-Updated: 03/01/2020
+Updated: 05/13/2020
