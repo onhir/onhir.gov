@@ -5,7 +5,7 @@ sidenav: true
 ---
 
 
-* [Management Manual (pdf)]({{site.baseurl}}/assets/documents/mangement-manual/ONHIR-Management-Manual.pdf "ONHIR Management Manual") 
+* [Management Manual (pdf)]({{site.baseurl}}/assets/documents/mangement-manual/ONHIR-Management-Manual.pdf "ONHIR Management Manual") upd 10/6/2020
 * [Policy Memorandums (pdf)]({{site.baseurl}}/assets/documents/mangement-manual/ONHIR-Policy-Memorandums.pdf "ONHIR Policy Statements")
 * [Contingency Plan]({{site.baseurl}}/assets/documents/readingroom/Contingency-Plan.pdf)  pdf
 * [Final Opinions]({{site.baseurl}}/policy/Final-Opinions.html)
@@ -17,3 +17,5 @@ sidenav: true
 * [Report and Plan April 3, 1981 - Part 1 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-April_3_1981_Part_1_of_3.pdf "Report and Plan April 3, 1981 - Part 1 of 3")
 * [Report and Plan April 3, 1981 - Part 2 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan_April_3_1981_Part_2_of_3.pdf "Report and Plan April 3, 1981 - Part 2 of 3")
 * [Report and Plan April 3, 1981 - Part 3 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-April_3_1981_Part_3_of_3.pdf "Report and Plan April 3, 1981 - Part 3 of 3")
+
+upd: 10/6/2020
