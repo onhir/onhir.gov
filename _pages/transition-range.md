@@ -22,6 +22,6 @@ Current Available Documents (All Documents are PDFs)
 
 [Water System Inventory]({{site.baseurl}}/assets/documents/transition/range/Water-System-Inventory.pdf) 4/6/2020
 
-[Windmill Site Inventory]({{site.baseurl}}/assets/documents/transition/range/Windmill-Site-Inventory.pdf)
+[Windmill Site Inventory]({{site.baseurl}}/assets/documents/transition/range/Windmill-Site-Inventory.pdf)  OCT 2020
 
-updated 05/12/2020
+updated 10/27/2020
