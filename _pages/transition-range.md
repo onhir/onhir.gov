@@ -16,7 +16,7 @@ Current Available Documents (All Documents are PDFs)
 
 [Livestock Tally by Range Unit]({{site.baseurl}}/assets/documents/transition/range/Livestock-Tally-by-Range-Unit.pdf) OCT 2019
 
-[Range Monitoring]({{site.baseurl}}/assets/documents/transition/range/Range%20Monitoring.pdf) December 2020
+[Range Monitoring]({{site.baseurl}}/assets/documents/transition/range/Range%20Monitoring%12-2020.pdf) December 2020
 
 [Reconnaissance Report of Boundary Fences on New Lands]({{site.baseurl}}/assets/documents/transition/range/Reconnaissance-Report-of-Boundary-Fences-on-New-Lands.pdf)
 
