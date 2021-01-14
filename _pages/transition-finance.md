@@ -16,9 +16,9 @@ All Documents are PDFs
 
 [Navajo Payments]({{site.baseurl}}/assets/documents/transition/finance/Navajo-Payments.pdf) (as of 03/14/2020)
 
-[New Lands Development costs Detail]({{site.baseurl}}/assets/documents/transition/finance/New-Lands-Development-costs-071910.pdf) (as of 03/25/2019)
+[New Lands Development costs Detail]({{site.baseurl}}/assets/documents/transition/finance/New-Lands-Development-costs-01122021.pdf) (as of 01/12/2021)
 
-[New Lands Development Costs Summary]({{site.baseurl}}/assets/documents/transition/finance/New-Lands-Development-Costs-Summary-072010.pdf) (as of 03/25/2019)
+[New Lands Development Costs Summary]({{site.baseurl}}/assets/documents/transition/finance/New-Lands-Development-Costs-Summary-01122021.pdf) (as of 01/12/2021)
 
 [New Lands Electronic Assets]({{site.baseurl}}/assets/documents/transition/finance/New_Lands_Electronic_Assets.pdf) (as of 1/25/2020)
 
@@ -27,4 +27,4 @@ All Documents are PDFs
 [Tagged New Lands Assets]({{site.baseurl}}/assets/documents/transition/finance/Tagged_New_Lands_Assets_Inventory.pdf) (as of 3/20/2020)
 
 
-updated 03/24/2020
+updated 01/12/2021
