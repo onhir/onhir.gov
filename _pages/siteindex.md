@@ -111,6 +111,10 @@ redirect_from:
 
 [Transition Document Page]({{site.baseurl}}/transition/index.html)  
 
+# V
+
+[Vulnerability Disclosure Page]({{site.baseurl}}/vulnerability-disclosure-policy/index.html)
+
 # W
 
 [Web\_Accessibility Page]({{site.baseurl}}/Web-Accessibility.html "Web_Accessibility")  
