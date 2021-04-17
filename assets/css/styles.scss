@@ -1,8 +1,4 @@
----
----
-
-// Import the US Web Design System minified CSS
-@import "../uswds/css/uswds.min.css";
+@import "uswds";
 // Alternatively, you could import the SCSS files directly for USWDS mixins and variables.
 //$theme-font-path:   '../uswds/fonts';
 //$theme-image-path:  '../uswds/img';
@@ -41,7 +37,7 @@
 
 
 .usa-hero {
-  background-image: url(../images/sample-hero.jpg);
+  background-image: asset_url("sample-hero.jpg" );
   background-position: 50%;
   background-size: cover;
 }
