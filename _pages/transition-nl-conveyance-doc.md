@@ -16,7 +16,7 @@ Current Available Documents
 
 [N-H Settlement Act]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/N-H-Settlement-Act.pdf)
 
-[Roberts Document Document including C.L. Crowder Investment Co. and State of Arizona Reconveyance Deeds]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/Roberts-Docs.pdf)
+[Roberts Document including C.L. Crowder Investment Co. and State of Arizona Reconveyance Deeds]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/Roberts-Docs.pdf)
 
 [Santa Fe Minerals]({{site.baseurl}}/assets/documents/transition/nl-conveyance-docs/Santa-Fe-minerals.pdf)
 
