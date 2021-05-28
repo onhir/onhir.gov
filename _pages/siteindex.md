@@ -61,7 +61,7 @@ redirect_from:
 
 # I
 
-[IPv6 Policy]({{site.baseurl}}/assets/documents/readingroom/ONHIR-IPv6-Policy.docx "ONHIR IPv6 Policy")
+[IPv6 Policy]({{site.baseurl}}/assets/documents/readingroom/ONHIR-IPv6-Policy.pdf "ONHIR IPv6 Policy") pdf
 
 # J 
 
