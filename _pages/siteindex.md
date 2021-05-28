@@ -59,6 +59,10 @@ redirect_from:
 
 [HSPD-12 Implementation Status Report]({{site.baseurl}}/assets/documents/about-ONHIR/HSPD-12-Reporting.pdf "HSPD-12 Implementation   Status Report PDF") pdf
 
+# I
+
+[IPv6 Policy]({{site.baseurl}}/assets/documents/readingroom/ONHIR-IPv6-Policy.docx "ONHIR IPv6 Policy")
+
 # J 
 
 [Jobs at ONHIR Page]({{site.baseurl}}/jobs.html "Jobs At ONHIR")  
@@ -120,4 +124,4 @@ redirect_from:
 [Web\_Accessibility Page]({{site.baseurl}}/Web-Accessibility.html "Web_Accessibility")  
 [Whistleblower Disclosure]({{site.baseurl}}/eeo/index.html)  
 
-update: 03/03/2021
+update: 05/28/2021
