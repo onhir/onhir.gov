@@ -16,7 +16,7 @@ Current Available Documents (All Documents are PDFs)
 
 [Livestock Tally by Range Unit]({{site.baseurl}}/assets/documents/transition/range/Livestock-Tally-by-Range-Unit.pdf) OCT 2019
 
-[Range Monitoring]({{site.baseurl}}/assets/documents/transition/range/Range_Monitoring.pdf) December 2020
+[Range Monitoring]({{site.baseurl}}/assets/documents/transition/range/Range_Monitoring.pdf) June 2021
 
 [Reconnaissance Report of Boundary Fences on New Lands]({{site.baseurl}}/assets/documents/transition/range/Reconnaissance-Report-of-Boundary-Fences-on-New-Lands.pdf)
 
@@ -24,4 +24,4 @@ Current Available Documents (All Documents are PDFs)
 
 [Windmill Site Inventory]({{site.baseurl}}/assets/documents/transition/range/Windmill-Site-Inventory.pdf)  OCT 2020
 
-updated 01/05/2021
+updated 06/07/2021
