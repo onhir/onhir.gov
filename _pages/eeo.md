@@ -16,7 +16,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Affirmative Action Statement of Policy]({{site.baseurl}}/assets/documents/eeo/Affirmative-Action-Statement-of-Policy.pdf) pdf
 
 **Reasonable Accoummodation**
-*   [Reasonable Accommodation Policy]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation_Policy-Procedures.pdf)  pdf
+*   [Reasonable Accommodation Policy-Procedure]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation_Policy-Procedures.pdf)  pdf
 *   [Appendix A EEOC]({{site.baseurl}}/assets/documents/policy/Appendix_A_EEOC.pdf)  pdf
 *   [Reasonable Accom Confirm Form]({{site.baseurl}}/assets/documents/eeo/Reasonable_Accom_Confirm_Form.pdf)  pdf
 *   [Reasonable Accommodation Denial Form]({{site.baseurl}}/assets/documents/eeo/Reasonable_Accommodation_Denial_Form.pdf)  pdf
