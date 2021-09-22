@@ -45,7 +45,7 @@ Under the existing laws, the ONHIR retains the right, where appropriate, to disc
 
 **Additional Information**
 
-For further information regarding the No FEAR Act refer to 5 C.F.R. 725.  Additional information regarding Federal antidiscrimination, whistleblower protection and retaliation laws can be found at the EEOC website, [http://www.eeoc.gov](http://www.eeoc.gov) and the OSC website, [http://www.osc.gov](http://www.osc.gov).
+For further information regarding the No FEAR Act refer to 5 C.F.R. 725.  Additional information regarding Federal antidiscrimination, whistleblower protection and retaliation laws can be found at the EEOC website, [https://www.eeoc.gov](http://www.eeoc.gov) and the OSC website, [https://www.osc.gov](http://www.osc.gov).
 
 **Existing Rights Unchanged**
 
