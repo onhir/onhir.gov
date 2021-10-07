@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 **If you're a Client of ONHIR – Call your Specialist    **  
-***Arlene Coleman extension  #168  [acolema@onhir.gov](mailto:acolema@onhir.gov)          ***   
+***Arlene Coleman extension  #168  [ROB@onhir.gov](mailto:ROB@onhir.gov)          ***   
 
 **If you have an Eligibility Application Pending  - Call**  
-***Joseph Shelton  extension  #151   [jshelto@onhir.gov](mailto:jshelto@onhir.gov)***  
-***Bertha Begay     extension  #142   [bbegay@onhir.gov](mailto:bbegay@onhir.gov)***  
+***Joseph Shelton  extension  #151   [Eligible@onhir.gov](mailto:Eligible@onhir.gov)***  
+***Bertha Begay     extension  #142   [Eligible@onhir.gov](mailto:Eligible@onhir.gov)***  
 *
 
 **Eligibility Appeal Pending**  
@@ -38,35 +38,35 @@ TTY 1-800-877-8339
 **<u>Other Staff Contacts</u>**
 
 **OFFICE OF EXECUTIVE DIRECTION**  
-**Christopher Bavasi     **[cjbavasi@onhir.gov](mailto:cjbavasi@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
+**Christopher Bavasi     **[Boss@onhir.gov](mailto:Boss@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **FINANCE**  
-**Nancy Thomas,CFO** [nthomas@onhir.gov](mailto:nthomas@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
+**Nancy Thomas,CFO** [Finance@onhir.gov](mailto:finance@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **HUMAN RESOURCES**  
-**Teresa Slater      **[tslater@onhir.gov](mailto:tslater@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
+**Teresa Slater      **[HR@onhir.gov](mailto:HR@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **INFORMATION SYSTEMS**  
-**Diane Pratte, CIO    **[dpratte@onhir.gov](mailto:dpratte@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
+**Diane Pratte, CIO    **[itinfo@onhir.gov](mailto:itinfo@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **LEGAL**  
-**Larry Ruzow       **[laruzow@onhir.gov](mailto:laruzow@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
+**Larry Ruzow       **[Eligible@onhir.gov](mailto:eligible@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **RELOCATION OPERATIONS**  
-**Jim McCauley       **[jmccaul@onhir.gov](mailto:jmccaul@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
+**Jim McCauley       **[ROB@onhir.gov](mailto:ROB@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **Webmaster:  [webmaster@onhir.gov](mailto:webmaster@onhir.gov?subject=Public%20Inquiry%20from%20ONHIR%20Website)**
 
 
 **NEW LANDS DEVELOPMENT**  
-**Mae Salago-King       [mking@onhir.gov](mailto:mking@onhir.gov)**
+**Mae Salago-King       [NewLands@onhir.gov](mailto:NewLands@onhir.gov)**
 
 **REMOTE OFFICE - Sanders, AZ**  
-**Mae Salago-King     **[mking@onhir.gov](mailto:mking@onhir.gov?subject=Contact%20from%20ONHIR%20Website)  
+**Mae Salago-King     **[NewLands@onhir.gov](mailto:NewLands@onhir.gov?subject=Contact%20from%20ONHIR%20Website)  
 *
 
 **REMOTE OFFICE - Chambers, AZ**  
-**Leonard Tsinnie        **[ltsinnie@onhir.gov](mailto:ltsinnie@onhir.gov?subject=Contact%20from%20ONHIR%20Website)  
+**Leonard Tsinnie        **[NewLands@onhir.gov](mailto:NewLands@onhir.gov?subject=Contact%20from%20ONHIR%20Website)  
 
 
 updated: 1/22/2020
