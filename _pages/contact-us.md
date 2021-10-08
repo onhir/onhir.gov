@@ -11,8 +11,8 @@ redirect_from:
 ***Arlene Coleman extension  #168  [ROB@onhir.gov](mailto:ROB@onhir.gov)          ***   
 
 **If you have an Eligibility Application Pending  - Call**  
-***Joseph Shelton  extension  #151   [Eligible@onhir.gov](mailto:Eligible@onhir.gov)***  
-***Bertha Begay     extension  #142   [Eligible@onhir.gov](mailto:Eligible@onhir.gov)***  
+***Joseph Shelton  extension  #151   [Eligibility@onhir.gov](mailto:Eligibility@onhir.gov)***  
+***Bertha Begay     extension  #142   [Eligibility@onhir.gov](mailto:Eligibility@onhir.gov)***  
 *
 
 **Eligibility Appeal Pending**  
@@ -38,7 +38,7 @@ TTY 1-800-877-8339
 **<u>Other Staff Contacts</u>**
 
 **OFFICE OF EXECUTIVE DIRECTION**  
-**Christopher Bavasi     **[Boss@onhir.gov](mailto:Boss@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
+**Christopher Bavasi     **[ExecutiveDirector@onhir.gov](mailto:ExecutiveDirector@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **FINANCE**  
 **Nancy Thomas,CFO** [Finance@onhir.gov](mailto:finance@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
@@ -50,7 +50,7 @@ TTY 1-800-877-8339
 **Diane Pratte, CIO    **[itinfo@onhir.gov](mailto:itinfo@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **LEGAL**  
-**Larry Ruzow       **[Eligible@onhir.gov](mailto:eligible@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
+**Larry Ruzow       **[Eligibility@onhir.gov](mailto:eligibility@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
 
 **RELOCATION OPERATIONS**  
 **Jim McCauley       **[ROB@onhir.gov](mailto:ROB@onhir.gov?subject=Contact%20from%20ONHIR%20Website)
