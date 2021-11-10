@@ -20,6 +20,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Appendix A EEOC]({{site.baseurl}}/assets/documents/policy/Appendix_A_EEOC.pdf)  pdf
 *   [Reasonable Accom Confirm Form]({{site.baseurl}}/assets/documents/eeo/Reasonable_Accom_Confirm_Form.pdf)  pdf
 *   [Reasonable Accommodation Denial Form]({{site.baseurl}}/assets/documents/eeo/Reasonable_Accommodation_Denial_Form.pdf)  pdf
+*   [ONHIR - COVID-19 Workplace Safety Plan]({{site.baseurl}}/assets/documents/policy/COVID-19_Workforce_Task_Force_Safety_Gidelines.pdf)  pdf11/10/21
 
 **[US Office of Special Counsel](https://osc.gov "US Office of Special Counsel")** - [https://osc.gov](https://osc.gov/)
 
