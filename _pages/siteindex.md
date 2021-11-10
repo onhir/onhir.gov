@@ -15,7 +15,7 @@ redirect_from:
 [Budget_&_Performance Page]({{site.baseurl}}/budget-and-performance/index.html "Budget & Performance Page")  
 
 # C 
-
+[COVID-19 Workplace Safety Plan]({{site.baseurl}}/assets/documents/policy/COVID-19_Workforce_Task_Force_Safety_Gidelines.pdf)
 [Contact-Us]({{site.baseurl}}/contact-us.html "Contact Us")  
 [Congressional Justification]({{site.baseurl}}/CJ/ "Congressional Justification")  
 [Contractors Requirements to build relocation houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
@@ -124,4 +124,4 @@ redirect_from:
 [Web\_Accessibility Page]({{site.baseurl}}/Web-Accessibility.html "Web_Accessibility")  
 [Whistleblower Disclosure]({{site.baseurl}}/eeo/index.html)  
 
-update: 05/28/2021
+update: 11/10/2021
