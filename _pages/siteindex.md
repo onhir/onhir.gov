@@ -15,7 +15,7 @@ redirect_from:
 [Budget_&_Performance Page]({{site.baseurl}}/budget-and-performance/index.html "Budget & Performance Page")  
 
 # C 
-[COVID-19 Workplace Safety Plan]({{site.baseurl}}/assets/documents/policy/COVID-19_Workforce_Task_Force_Safety_Gidelines.pdf)
+[COVID-19 Workplace Safety Plan]({{site.baseurl}}/assets/documents/eeo/COVID-19_Workforce_Task_Force_Safety_Gidelines.pdf)
 [Contact-Us]({{site.baseurl}}/contact-us.html "Contact Us")  
 [Congressional Justification]({{site.baseurl}}/CJ/ "Congressional Justification")  
 [Contractors Requirements to build relocation houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
