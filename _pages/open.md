@@ -44,7 +44,7 @@ How is this new?  These data sets present information in a machine accessible, 
 
 **FAIR Act Information**.   ONHIR will continue to post FAIR Act information on our website so the public will be aware of staffing within the Office.  This posting is required to be updated yearly. 
 > 
-*   [Fair Act Information    xls]({{site.baseurl}}/assets/documents/datasets/FAIR Act summary figures 2020 - dataset.xls)
+*   [Fair Act Information    xls]({{site.baseurl}}/assets/documents/datasets/FAIR Act summary figures 2021.xlsx)
 
 **FOIA Information**.  FOIA annual reports, as well as procedures for filing an FOIA request, will continue to be posted on our official ONHIR website.  Currently, there is no backlog of FOIA requests, and questions about FOIA items can be made by accessing the web information posted. You can review our latest  [Annual FOIA Reports]({{site.baseurl}}/foia/Archives/index.html "Annual FOIA Report") by clicking this line.
 
@@ -52,4 +52,4 @@ How is this new?  These data sets present information in a machine accessible, 
 
 ONHIR is  a Micro/Temporary/Non CFO reporting agency with less than 100 FTE's and as such does not have a separate IT Budget.
 
-Updated: 01/05/2021
+Updated: 11/19/2021
