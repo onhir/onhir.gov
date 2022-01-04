@@ -7,7 +7,7 @@ sidenav: true
 If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslater@onhir.gov?subject=EEO/HR%20question20from%20onhir.gov%20link)**
 
 **Equal Employment Opportunity (EEO)**
-*   [Commitment Policy]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 1/2020
+*   [Commitment Policy]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 1/2022
 *   [Alternative Dispute Resolution Policy]({{site.baseurl}}/assets/documents/eeo/Alternative-Dispute-Resolution-Policy.pdf) pdf 01/19/20
 *   [Discrimination Complaint Process](EEO-DISCRIMINATION-COMPLAINT-PROCESS.html)
 *   [Sexual Harassment Policy](eeo-sexual-harassment-policy.htm)
@@ -24,7 +24,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 
 **[US Office of Special Counsel](https://osc.gov "US Office of Special Counsel")** - [https://osc.gov](https://osc.gov/)
 
-*   [No Fear Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf) pdf update 09/11/2021
+*   [No Fear Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf) pdf update 01/04/2022
 *   [No Fear Act Notice](No-Fear-Act-Notice.html)
 *   [The Architectural Barriers Act of 1968]({{site.baseurl}}/assets/documents/eeo/The%20Architectural%20Barriers%20Act%20of%201968.pdf)  
 
@@ -41,4 +41,4 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 **Human Resources (HR)**
 *   [Employee Survey](../employee-survey/index.html)
 
-Updated: 11/10/2021
+Updated: 01/04/2022
