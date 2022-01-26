@@ -9,7 +9,7 @@ sidenav: true
 * [Policy Memorandums (pdf)]({{site.baseurl}}/assets/documents/mangement-manual/ONHIR-Policy-Memorandums.pdf "ONHIR Policy Statements")
 * [Contingency Plan]({{site.baseurl}}/assets/documents/readingroom/Contingency-Plan.pdf)  pdf
 * [Final Opinions]({{site.baseurl}}/policy/Final-Opinions.html)
-* [OMB Tribal Consultation Initiative](https://www.whitehouse.gov/omb/tribal-consultation/)
+* [OMB Tribal Consultation Initiative]({{site.baseurl}}/OMB_Tribal_Consultation-Initiative.html)
 * [Requirements for contractors to build relocation houses]({{site.baseurl}}/readingroom/Requirements-for-Contractors.html)
 * [Regulations and other related documents](https://tinyurl.com/ybte9ant)
 * [Current Agency Actions Regarding Eligibility]({{site.baseurl}}/eligibility/index.html)
