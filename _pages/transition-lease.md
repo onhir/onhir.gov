@@ -6,7 +6,7 @@ redirect_from:
     - /transition/lease/
 --- 
 
-[ONHIR Leases, Property and Agreements List]({{site.baseurl}}/assets/documents/transition/lease/ONHIR_Leases,_Property_and_Agreements_List.xls) .xls  05/11/2021
+[ONHIR Leases, Property and Agreements List]({{site.baseurl}}/assets/documents/transition/lease/ONHIR_Leases,_Property_and_Agreements_List.xls) .xls  03/21/2022
 
 [25 USC 640d 10]({{site.baseurl}}/assets/documents/transition/lease/25_USC_640d-10.pdf)
 
@@ -14,4 +14,4 @@ redirect_from:
 
 [S. 47--Navajo Land Selection]({{site.baseurl}}/assets/documents/transition/lease/S_47--Navajo_Land_Selection.pdf)
 
-updated 05/11/2021 
+updated 03/21/2022
