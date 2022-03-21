@@ -7,8 +7,8 @@ sidenav: true
 If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslater@onhir.gov?subject=EEO/HR%20question20from%20onhir.gov%20link)**
 
 **Equal Employment Opportunity (EEO)**
-*   [Commitment Policy]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 1/2022
-*   [Alternative Dispute Resolution Policy]({{site.baseurl}}/assets/documents/eeo/Alternative-Dispute-Resolution-Policy.pdf) pdf 01/19/20
+*   [Commitment Policy]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 3/2022
+*   [Alternative Dispute Resolution Policy]({{site.baseurl}}/assets/documents/eeo/Alternative-Dispute-Resolution-Policy.pdf) pdf 03/2022
 *   [Discrimination Complaint Process](EEO-DISCRIMINATION-COMPLAINT-PROCESS.html)
 *   [Sexual Harassment Policy](eeo-sexual-harassment-policy.htm)
 *   [PAS Procedures]({{site.baseurl}}/assets/documents/eeo/PAS.pdf)  pdf
@@ -16,7 +16,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Affirmative Action Statement of Policy]({{site.baseurl}}/assets/documents/eeo/Affirmative-Action-Statement-of-Policy.pdf) pdf
 
 **Reasonable Accoummodation**
-*   [Reasonable Accommodation Policy-Procedure]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation_Policy-Procedures.pdf)  pdf11/10/21
+*   [Reasonable Accommodation Policy-Procedure]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation_Policy-Procedures.pdf)  pdf  03/2022
 *   [Appendix A EEOC]({{site.baseurl}}/assets/documents/policy/Appendix_A_EEOC.pdf)  pdf
 *   [Reasonable Accom Confirm Form]({{site.baseurl}}/assets/documents/eeo/Reasonable_Accom_Confirm_Form.pdf)  pdf
 *   [Reasonable Accommodation Denial Form]({{site.baseurl}}/assets/documents/eeo/Reasonable_Accommodation_Denial_Form.pdf)  pdf
@@ -41,4 +41,4 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 **Human Resources (HR)**
 *   [Employee Survey](../employee-survey/index.html)
 
-Updated: 01/04/2022
+Updated: 03/21/2022
