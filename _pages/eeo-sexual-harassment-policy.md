@@ -55,4 +55,4 @@ redirect_from:
 > 
 > All ONHIR employees, including but not limited to staff, supervisors, managers and senior officials, are required to comply with this policy. Employees are also expected to behave professionally and to exercise good judgment in work related relationships, whether with fellow employees, business colleagues, or members of the public with whom they come into contact in the course of official duties. Further, all employees are expected to take appropriate measures to prevent sexual harassment. Unwelcome behavior of a sexual nature should be stopped before it becomes severe or pervasive and rises to violation of law.
 > 
-> /signed/   Christopher J. Bavasi, Executive Director      1/19/2020
+> /signed/   Christopher J. Bavasi, Executive Director     01/30/2022
