@@ -14,6 +14,9 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [PAS Procedures]({{site.baseurl}}/assets/documents/eeo/PAS.pdf)  pdf
 *   [Anti-Harassment Policy and Procedures]({{site.baseurl}}/assets/documents/eeo/Harassment.pdf)  pdf
 *   [Affirmative Action Statement of Policy]({{site.baseurl}}/assets/documents/eeo/Affirmative-Action-Statement-of-Policy.pdf) pdf
+*   [Prevention of Harassment Policy]({{site.baseurl}}/assets/documents/policy/Prevention_of_Harassment_Policy.pdf)  pdf
+*   [Diversity, Equity, Inclusion and Accessibility(DEIA) Policy]({{site.baseurl}}/assets/documents/policy/DEIA_Policy.pdf)  pdf
+*   [Employment and Advancement of Individuals with Disabilities Policy]({{site.baseurl}}/assets/documents/policy/Individuals_with_Disabilities_Policy.pdf)  pdf
 
 **Reasonable Accoummodation**
 *   [Reasonable Accommodation Policy-Procedure]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation_Policy-Procedures.pdf)  pdf  03/2022
