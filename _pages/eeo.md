@@ -17,6 +17,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Prevention of Harassment Policy]({{site.baseurl}}/assets/documents/policy/Prevention_of_Harassment_Policy.pdf)  pdf
 *   [Diversity, Equity, Inclusion and Accessibility(DEIA) Policy]({{site.baseurl}}/assets/documents/policy/DEIA_Policy.pdf)  pdf
 *   [Employment and Advancement of Individuals with Disabilities Policy]({{site.baseurl}}/assets/documents/policy/Individuals_with_Disabilities_Policy.pdf)  pdf
+*   [Architectural Barriers Act (ABA)]({{site.baseurl}}/assets/documents/policy/Architectural_Barriers_Act(ABA).pdf)  pdf
 
 **Reasonable Accoummodation**
 *   [Reasonable Accommodation Policy-Procedure]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation_Policy-Procedures.pdf)  pdf  03/2022
@@ -45,4 +46,4 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 **Human Resources (HR)**
 *   [Employee Survey](../employee-survey/index.html)
 
-Updated: 04/08/2022
+Updated: 05/17/2022
