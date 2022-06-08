@@ -8,5 +8,5 @@ redirect_from:
 
 There are no current openings at ONHIR
 
-To view other government jobs visit [https://usajobs.gov](usajobs.gov)
+[To view other government jobs visit](https://usajobs.gov "usajobs.gov")
 
