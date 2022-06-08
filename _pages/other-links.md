@@ -16,7 +16,7 @@ When you link to an external site, please be aware that you are subject to the d
 
 [Public and Private Laws: Main Page](https://www.gpo.gov "Public and Private Laws")
 
-[Privacy Act Issuances](https://www.gpo.gov/pdfs/about/Privacy_Awareness_PUBLIC_2012.pdf "Privacy Act Issuances") <span class="SmallFont">(pdf)</span>
+[Privacy Act Issuances](https://archives.gov/federal-register/publications/privacy-act.html "Privacy Act Issuances")
 
 [Search.USA.gov](https://www.usa.gov/ "Search USA GOV")
 
