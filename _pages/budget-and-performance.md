@@ -19,7 +19,7 @@ sidenav: true
 **Fair Act Reports**
 
 *   [FAIR Act Contact Information]({{site.baseurl}}/assets/documents/budget-and-performance/Fair%20Act%20contact%20info.xls "Fair Act contact info") (xls)
-*   [Fair Act Information - dataset]({{site.baseurl}}/assets/documents/datasets/FAIR Act inventory info 2021 Data Set.xlsx "Fair Act Information - dataset xlsx") (xlsx)
+*   [Fair Act Information - dataset]({{site.baseurl}}/assets/documents/datasets/FAIR Act inventory info 2022 Data Set.xlsx "Fair Act Information - dataset xlsx") (xlsx)
 *   [Inventory of Commercial Activities]({{site.baseurl}}/assets/documents/budget-and-performance/FAIR%20Act%20summary%20figures.xls "Inventjory of Commercial Activities") (xls)
 
 **Government Preformance & Results Act (GPRA)**
