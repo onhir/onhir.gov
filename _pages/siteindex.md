@@ -80,7 +80,7 @@ redirect_from:
 
 # N 
 
-[Navajo and Hopi Settlement Act]({{site.baseurl}}/assets/documents/N-H-Settlement-Act-titled.pdf "Navajo and Hopi Settlement Act")pdf  
+[Navajo and Hopi Settlement Act]({{site.baseurl}}/assets/documents/N-H-Settlement-Act-titled.pdf "Navajo and Hopi Settlement Act") pdf  
 [Public Law 93-531(as amended)]({{site.baseurl}}/assets/documents/N-H-Settlement-Act-titled.pdf "Public Law 93-531 (as amended)") pdf  
 
 # O 
@@ -124,4 +124,4 @@ redirect_from:
 [Web\_Accessibility Page]({{site.baseurl}}/Web-Accessibility.html "Web_Accessibility")  
 [Whistleblower Disclosure]({{site.baseurl}}/eeo/index.html)  
 
-update: 11/10/2021
+update: 08/01/2022
