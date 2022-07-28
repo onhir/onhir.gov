@@ -23,7 +23,6 @@ redirect_from:
 [Congressional Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong  Resource Requirements") pdf  
 [Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong Salaries and Expenses") pdf  
 [Congressional_Annual_Reports]({{site.baseurl}}/assets/documents/datasets/Cong_Salaries_and_Expenses.xlsx "Congressional_Annual_Reports") xlsx  
-[Cong 2010 Resource Requirements]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Cong 2010 Resource Requirements csv format") csv format  
 [CONTINGENCY PLAN FOR AGENCY OPERATIONS IN ABSENCE OF APPROPRIATIONS]({{site.baseurl}}/assets/documents/readingroom/Contingency-Plan.pdf)  
 
 # D 
