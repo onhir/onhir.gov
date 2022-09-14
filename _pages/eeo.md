@@ -24,12 +24,12 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Appendix A EEOC]({{site.baseurl}}/assets/documents/policy/Appendix_A_EEOC.pdf)  pdf
 *   [Reasonable Accom Confirm Form]({{site.baseurl}}/assets/documents/eeo/Reasonable_Accom_Confirm_Form.pdf)  pdf
 *   [Reasonable Accommodation Denial Form]({{site.baseurl}}/assets/documents/eeo/Reasonable_Accommodation_Denial_Form.pdf)  pdf
-*   [ONHIR - COVID-19 Workplace Safety Plan]({{site.baseurl}}/assets/documents/eeo/COVID-19_Workforce_Task_Force_Safety_Gidelines.pdf)  pdf11/10/21
+*   [ONHIR - COVID-19 Workplace Safety Plan]({{site.baseurl}}/assets/documents/eeo/COVID-19_Workforce_Task_Force_Safety_Gidelines.pdf)  pdf 09/13/2022
 
 **[US Office of Special Counsel](https://osc.gov "US Office of Special Counsel")** - [https://osc.gov](https://osc.gov/)
 
 *   [No Fear Data Annual Report]({{site.baseurl}}/assets/documents/eeo/No-Fear-Act-Annual-Report.pdf) pdf new 04/08/2022
-*   [No Fear Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf) pdf update 06/17/2022   
+*   [No Fear Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf) pdf update 09/13/2022   
 *   [No Fear Act Notice](No-Fear-Act-Notice.html)
 *   [The Architectural Barriers Act of 1968]({{site.baseurl}}/assets/documents/eeo/The%20Architectural%20Barriers%20Act%20of%201968.pdf)  
 
@@ -46,4 +46,4 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 **Human Resources (HR)**
 *   [Employee Survey](../employee-survey/index.html)
 
-Updated: 06/17/2022
+Updated: 09/13/2022
