@@ -7,6 +7,8 @@ redirect_from:
     - /foia/Archives/
 ---
 
+2022 Annual Foia Report [(pdf)]({{site.baseurl}}/assets/documents/foia/archives/FOIA--FY2022-Report.pdf) [(xml)]({{site.baseurl}}/assets/documents/foia/archives/ONHIR-Foia-Annual-2022-Report.xml)
+
 2021 Annual Foia Report [(pdf)]({{site.baseurl}}/assets/documents/foia/archives/FOIA--FY2021-Report.pdf) [(xml)]({{site.baseurl}}/assets/documents/foia/archives/ONHIR-Foia-Annual-2021-Report.xml)
 
 2020 Annual Foia Report [(pdf)]({{site.baseurl}}/assets/documents/foia/archives/FOIA--FY2020-Report.pdf) [(xml)]({{site.baseurl}}/assets/documents/foia/archives/ONHIR-Foia-Annual-2020-Report.xml)
@@ -34,4 +36,4 @@ redirect_from:
 2009 Annual FOIA Report [(pdf)]({{site.baseurl}}/assets/documents/foia/archives/FOIA--FY-2009-Report.pdf) [(csv)]({{site.baseurl}}/assets/documents/foia/archives/FOIA%202009%20Tables.csv)
 
 
-Updated: 02/14/2022
+Updated: 01/19/2023
