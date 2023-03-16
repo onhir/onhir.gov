@@ -12,7 +12,7 @@ sidenav: true
 
 **Congressional Reports**
 
-*   [FY Congressional Justification PDF]({{site.baseurl}}/assets/documents/CJ/FY2023-Cong-Budget-Total.pdf "FY2023-Cong-Budget-Total") 3/21/2022
+*   [FY Congressional Justification PDF]({{site.baseurl}}/assets/documents/CJ/FY2024-Cong-Budget-Total.pdf "FY2024-Cong-Budget-Total") 03/16/2023
 *   [Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Resource Requirements pdf") (pdf)[dataset]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Resources Requirements csv")
 *   [Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Salaries and Expenses pdf") (pdf)[dataset]({{site.baseurl}}/assets/documents/datasets/Cong_Salaries_and_Expenses.xlsx "Salaries and Expenses xlsx format")
 
@@ -27,4 +27,4 @@ sidenav: true
 *   [Annual Plan]({{site.baseurl}}/assets/documents/budget-and-performance/GPRA%20Annual%20Plan.pdf "Annual Plan") (pdf)
 *   [Multiyear Plan]({{site.baseurl}}/assets/documents/budget-and-performance/GPRA%20Multiyear.pdf "Multiyear Plan") (pdf)
 
-Updated: 08/01/2022
+Updated: 03/16/2023
