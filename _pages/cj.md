@@ -3,8 +3,8 @@ title: CJ
 layout: page
 sidenav: true
 redirect_from:
-    - /CJ.html
     - /CJ/
+    - /CJ.md
 ---
 
 CONGRESSIONAL JUSTIFICATION
