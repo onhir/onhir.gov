@@ -10,7 +10,7 @@ sidenav: true
 
 [Office of Navajo and Hopi Indian Relocation PAR Report]({{site.baseurl}}/assets/documents/budget-and-performance/FY2021_PAR.pdf "PAR Report") (pdf)
 
-**Congressional Reports Page**  ({{site.baseurl}}/CJ/)
+**Congressional Reports Page**  [Congressional Justification page]({{site.baseurl}}/cj)
 
 *   [FY Congressional Justification PDF]({{site.baseurl}}/assets/documents/CJ/FY2024-Cong-Budget-Total.pdf "FY2024-Cong-Budget-Total") 03/16/2023
 *   [Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Resource Requirements pdf") (pdf)[dataset]({{site.baseurl}}/assets/documents/datasets/Congressional_Resource_Requirements.csv "Resources Requirements csv")
