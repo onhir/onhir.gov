@@ -6,7 +6,7 @@ redirect_from:
     - /CJ/
     - /CJ.md
 --- 
-**[Budget and Preformance page] (https://onhir.gov/budget-and-performance/)
+[Budget\_and\_Performance]({{site.baseurl}}/budget-and-performance/)
 
 **CONGRESSIONAL JUSTIFICATION
 
