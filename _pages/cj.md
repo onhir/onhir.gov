@@ -6,7 +6,7 @@ redirect_from:
     - /CJ/
     - /CJ.md
 --- 
-[Budget\_and\_Performance]({{site.baseurl}}/budget-and-performance/)
+[Return to Budget\_and\_Performance page]({{site.baseurl}}/budget-and-performance/)
 
 **CONGRESSIONAL JUSTIFICATION
 
