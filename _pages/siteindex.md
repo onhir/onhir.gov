@@ -110,6 +110,10 @@ redirect_from:
 [Report and Plan April 3 1981 - Part 2 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan_April_3_1981_Part_2_of_3.pdf "Report and Plan April 3 1981 Part 2 of 3")  
 [Report and Plan April 2 1981 - Part 3 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-April_3_1981_Part_3_of_3.pdf "Report and Plan April 3 1981 - Part 3 of 3")  
 
+# S 
+
+[OSC Certification]({{site.baseurl}}/assets/documents/eeo/OSC-Certification.pdf) pdf
+
 # T 
 
 [Transition Document Page]({{site.baseurl}}/transition/index.html)  
