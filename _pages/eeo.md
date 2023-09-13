@@ -43,7 +43,11 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Know your Rights When Reporting Wrongs]({{site.baseurl}}/assets/documents/eeo/Know%20your%20Rights%20When%20Reporting%20Wrongs.pdf) pdf
 *   [Whistleblower Retaliation]({{site.baseurl}}/assets/documents/eeo/Whistleblower%20Retaliation.pdf) pdf
 
+**OSC Certification**
+
+*   [OSC Certification]({{site.baseurl}}/assets/documents/eeo/OSC-Certification.pdf) pdf
+
 **Human Resources (HR)**
 *   [Employee Survey](../employee-survey/index.html)
 
-Updated: 06/14/2023
+Updated: 09/13/2023
