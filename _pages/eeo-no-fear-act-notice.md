@@ -29,7 +29,7 @@ If you believe that you have been the victim of unlawful discrimination on the b
 
 An ONHIR employee with authority to take, direct others to take, recommend or approve any personnel action must not use that authority to take or fail to take, or threaten to take or fail to take, a personnel action against an employee or applicant because of disclosure of information by that individual that is reasonably  believed to evidence violations of law, rule or regulation; gross mismanagement; gross waste of funds; an abuse of authority; or a substantial and specific danger to public health or safety, unless disclosure of such information is specifically prohibited by law or such information is specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs.
 
-Retaliation against an employee or applicant for making a protected disclosure is prohibited by 5 U.S.C. 2302(b)(8).  If you believe that you have been the victim of whistleblower retaliation, you may file a written complaint (Form OSC-11) with the U.S. Office of Special Counsel (OSC) online at [http://www.osc.gov](http://www.osc.gov) or by mail:
+Retaliation against an employee or applicant for making a protected disclosure is prohibited by 5 U.S.C. 2302(b)(8).  If you believe that you have been the victim of whistleblower retaliation, you may file a written complaint (Form OSC-11) with the U.S. Office of Special Counsel (OSC) online at [http://osc.gov](http://osc.gov) or by mail:
 
                                                                 U.S. Office of Special Counsel  
                                                                 1730 M Street, N.W., Suite 218  
@@ -45,7 +45,7 @@ Under the existing laws, the ONHIR retains the right, where appropriate, to disc
 
 **Additional Information**
 
-For further information regarding the No FEAR Act refer to 5 C.F.R. 725.  Additional information regarding Federal antidiscrimination, whistleblower protection and retaliation laws can be found at the EEOC website, [https://www.eeoc.gov](http://www.eeoc.gov) and the OSC website, [https://www.osc.gov](http://www.osc.gov).
+For further information regarding the No FEAR Act refer to 5 C.F.R. 725.  Additional information regarding Federal antidiscrimination, whistleblower protection and retaliation laws can be found at the EEOC website, [https://www.eeoc.gov](http://www.eeoc.gov) and the OSC website, [https://osc.gov](http://osc.gov).
 
 **Existing Rights Unchanged**
 
