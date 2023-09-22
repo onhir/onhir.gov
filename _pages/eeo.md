@@ -19,7 +19,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Employment and Advancement of Individuals with Disabilities Policy]({{site.baseurl}}/assets/documents/policy/Individuals_with_Disabilities_Policy.pdf)  pdf
 *   [Architectural Barriers Act (ABA)]({{site.baseurl}}/assets/documents/eeo/Architectural_Barriers_Act_(ABA).pdf)  pdf
 
-**Reasonable Accoummodation**
+**Reasonable Accommodation**
 *   [Reasonable Accommodation Policy-Procedure]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation_Policy-Procedures.pdf)  pdf  03/2023
 *   [Appendix A EEOC]({{site.baseurl}}/assets/documents/policy/Appendix_A_EEOC.pdf)  pdf
 *   [Reasonable Accom Confirm Form]({{site.baseurl}}/assets/documents/eeo/Reasonable_Accom_Confirm_Form.pdf)  pdf
@@ -32,6 +32,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [No Fear Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf) pdf update 06/14/2023  
 *   [No Fear Act Notice](No-Fear-Act-Notice.html)
 *   [The Architectural Barriers Act of 1968]({{site.baseurl}}/assets/documents/eeo/The%20Architectural%20Barriers%20Act%20of%201968.pdf)  
+*   [OSC Annual Notice]({{site.baseurl}}/assets/documents/eeo/OSC-Certification.pdf) pdf
 
 **Prohibited Personnel Practices (PPP)**
 
@@ -43,11 +44,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Know your Rights When Reporting Wrongs]({{site.baseurl}}/assets/documents/eeo/Know%20your%20Rights%20When%20Reporting%20Wrongs.pdf) pdf
 *   [Whistleblower Retaliation]({{site.baseurl}}/assets/documents/eeo/Whistleblower%20Retaliation.pdf) pdf
 
-**OSC Certification**
-
-*   [OSC Certification]({{site.baseurl}}/assets/documents/eeo/OSC-Certification.pdf) pdf
-
 **Human Resources (HR)**
 *   [Employee Survey](../employee-survey/index.html)
 
-Updated: 09/13/2023
+Updated: 09/22/2023
