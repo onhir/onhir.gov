@@ -6,7 +6,7 @@ sidenav: true
 
 [Finance Information Page](finance/index.html)
 
-[Lands Acquired Pursuant to Navajo-Hopi Settlement Act]({{site.baseurl}}/transition-lease/) updated as of 03/01/2020
+[Lands Acquired Pursuant to Navajo-Hopi Settlement Act]({{site.baseurl}}/transition-lease/) 
 
 [Maps Page](maps/index.html)
 
@@ -14,10 +14,10 @@ sidenav: true
 
 [Range Information Page](range/index.html)
 
-[Intragovernmental Use Agreement]({{site.baseurl}}/transitiona-intragovernmental-use-agreement/) 10/17/2018
+[Intragovernmental Use Agreement]({{site.baseurl}}/transitiona-intragovernmental-use-agreement/) 
 
-[Homesite Totals]({{site.baseurl}}/assets/documents/transition/HOMESITES-TOTALS.pdf) pdf as of 03/01/2020
+[Homesite Totals]({{site.baseurl}}/assets/documents/transition/HOMESITES-TOTALS.pdf) pdf 
 
-[New Lands Records Series/Index]({{site.baseurl}}/assets/documents/transition/New-Lands-Records-Series-Index.pdf) pdf 10/04/2018
+[New Lands Records Series/Index]({{site.baseurl}}/assets/documents/transition/New-Lands-Records-Series-Index.pdf) pdf
 
-Updated: 04/20/2020
+Updated: 10/07/2023
