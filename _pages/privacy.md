@@ -23,13 +23,17 @@ Nancy Thomas
 PO Box KK
 Flagstaff, AZ  86002
 (P) 982-779-2721
-[nthomas@onhir.gov](mailto:nthomas@onhir.gov)
+[privacy@onhir.gov](mailto:privacy@onhir.gov)
 
-Privacy Act Officer
+Privacy FOIA Officer
 Larry A Ruzow
 PO Box KK
 Flagstaff, AZ  86002
 (P) 928-779-2721
-[laruzow@onhir.gov](mailto:laruzow@onhir.gov)
+[privacy@onhir.gov](mailto:privacy@onhir.gov)
 
-Updated: 02/13/2023
+Privacy Contact
+Chris Bavasi
+[privacy@onhir.gov](mailto:privacy@onhir.gov)
+
+Updated: 10/19/2023
