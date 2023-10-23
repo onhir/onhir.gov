@@ -31,8 +31,7 @@ redirect_from:
 
 # E
 [EEO Documents Page]({{site.baseurl}}/eeo/index.html "EEO Documents Page")  
-[EEO_commitment_policy Page]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf "EEO Policy Statement")  
-[EEO_sexual_harassment_policy Page]({{site.baseurl}}/eeo/eeo-sexual-harassment-policy.htm "eeo_sexual_harassment_policy")  
+[EEO_commitment_policy Page]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf "EEO Policy Statement")   
 [Eligibility Information Page]({{site.baseurl}}/eligibility/index.html "Eligibility Information")  
 [EmployeeSurvey Page]({{site.baseurl}}/employee-survey/index.html "Employee Survey(s)")  
 [EmployeeSurvey Archive Page]({{site.baseurl}}/employee-survey/Archives/Archives.html)  
