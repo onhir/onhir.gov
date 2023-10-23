@@ -21,6 +21,6 @@ Requests for records from the ONHIR should be addressed to, Freedom of Informati
 
 The vast majority of our FOIA requests contain Personally Identifiable Information (PII), so for the privacy of our clients the requested reports will not be shared with the public. We look forward to sharing any other information as we can.
 
-Contact:  Larry Ruzow, Privacy Officer  928-779-2721   [laruzow@onhir.gov](mailto:laruzow@onhir.gov)
+Contact:  Larry Ruzow, Privacy FOIA Officer  928-779-2721   [privacy@onhir.gov](mailto:privacy@onhir.gov)
 
-Updated: 02/14/2021
+Updated: 10/23/2023
