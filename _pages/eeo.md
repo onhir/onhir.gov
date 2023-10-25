@@ -10,7 +10,6 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Commitment Policy PDF]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 3/2023
 *   [Alternative Dispute Resolution Policy - PDF]({{site.baseurl}}/assets/documents/eeo/Alternative-Dispute-Resolution-Policy.pdf) pdf 03/2023
 *   [Discrimination Complaint Process](EEO-DISCRIMINATION-COMPLAINT-PROCESS.html)
-*   [Sexual Harassment Policy](eeo-sexual-harassment-policy.htm)
 *   [PAS Procedures]({{site.baseurl}}/assets/documents/eeo/PAS.pdf)  pdf
 *   [Anti-Harassment Policy and Procedures]({{site.baseurl}}/assets/documents/eeo/Harassment.pdf)  pdf
 *   [Affirmative Action Statement of Policy]({{site.baseurl}}/assets/documents/eeo/Affirmative-Action-Statement-of-Policy.pdf) pdf
