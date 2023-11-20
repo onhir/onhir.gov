@@ -41,7 +41,7 @@ redirect_from:
 [FOIA-- Chief FOIA Officer Reports]({{site.baseurl}}/foia/Chief/index.html)  
 [FOIA -- Annual Reports]({{site.baseurl}}/foia/Archives/index.html)  
 [Final_Opinions Page]({{site.baseurl}}/policy/Final-Opinions.html "final_opinions")  
-[No Fear Act Notice]({{site.baseurl}}/eeo/No-Fear-Act-Notice.html "No Fear Act Notice")  
+[No Fear Act Notice]({{site.baseurl}}/eeo/No-Fear-Act-Notice.pdf "No Fear Act Notice")  
 [No Fear Act Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf "No Fear Act Data") pdf  
 [Fair Act Contact info]({{site.baseurl}}/assets/documents/budget-and-performance/Fair%20Act%20contact%20info.xls "Fair Act Contact Info") xls  
 [Fair Act Inventory info]({{site.baseurl}}/assets/documents/budget-and-performance/FAIR%20Act%20inventory%20info.xls "Fair Act Inventory Info") xls  
