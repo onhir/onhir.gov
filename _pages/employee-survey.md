@@ -14,6 +14,4 @@ The Federal Viewpoint Survey (FEVS) is a key tool in assessing policies, program
 [2021 Employee Survey Results]({{site.baseurl}}/assets/documents/employee-survey/2021-OPM-FEVS-AES-ONHIR.xlsx)
 
 
-[Archive Page]({{site.baseurl}}/employee-survey/Archives/Archives.html "Archive Page")
-
-Updated: 09/09/2022
+Updated: 11/20/2023
