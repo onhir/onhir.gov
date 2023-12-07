@@ -25,5 +25,5 @@ The mission of the Office of Navajo and Hopi Indian Relocation is to provide qua
 
 Padres Mesa Ranch - disclaimer: This agency has no editorial rights to the public website padresmesaranch.com  it is our understanding the site is privately owned and monitored.
 
-Updated: 10/04/2023
+Updated: 12/07/2023
 
