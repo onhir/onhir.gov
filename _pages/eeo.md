@@ -28,7 +28,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 **[US Office of Special Counsel](https://osc.gov "US Office of Special Counsel")** - [https://osc.gov](https://osc.gov/)
 
 *   [No Fear Data Annual Report]({{site.baseurl}}/assets/documents/eeo/No-Fear-Act-Annual-Report.pdf) pdf 10/2023
-*   [No Fear Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf) pdf update 10/04/2023  
+*   [No Fear Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf) pdf update 12/07/2023  
 *   [No Fear Act Notice]({{site.baseurl}}/assets/documents/eeo/No-Fear-Act-Notice.pdf) 10/04/23
 *   [The Architectural Barriers Act of 1968]({{site.baseurl}}/assets/documents/eeo/The%20Architectural%20Barriers%20Act%20of%201968.pdf)  
 *   [OSC Annual Notice]({{site.baseurl}}/assets/documents/eeo/OSC-Certification.pdf) pdf
@@ -46,4 +46,4 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 **Human Resources (HR)**
 *   [Employee Survey](../employee-survey/index.html)
 
-Updated: 10/04/2023
+Updated: 12/07/2023
