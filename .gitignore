@@ -2,8 +2,9 @@ _site
 .sass-cache
 .jekyll-metadata
 node_modules
-assets/js
-assets/uswds
-_sass/uswds
 .bundle
 .jekyll-cache/
+assets/uswds/*
+!assets/uswds/.gitkeep
+assets/js/uswds*
+.DS_Store
