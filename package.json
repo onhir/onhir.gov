@@ -4,11 +4,12 @@
   "scripts": {
     "build": "bundle exec jekyll build",
     "clean": "bundle exec jekyll clean",
+    "dev": "rm -rf .jekyll-cache && bundle exec jekyll clean && bundle exec jekyll serve --livereload --incremental",
     "reset": "npx rimraf .git",
     "start": "bundle exec jekyll serve"
   },
   "dependencies": {
-    "uswds": "~2.10.0"
+    "uswds": "^2.14.0"
   },
   "devDependencies": {
     "rimraf": "^3.0.2"
