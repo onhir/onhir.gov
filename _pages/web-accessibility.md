@@ -10,7 +10,7 @@ The Office of Navajo and Hopi Indian Relocation is committed to making its elect
 
 If you have feedback or concerns related to the accessibility of any content on this website or if you would like to file a Section 508-related complaint, please contact the Webmaster via email at webmaster@onhir.gov; phone 928-779-2721. If applicable, please include the web address or URL and the specific problems you have encountered. 
 
-If you have comments and/or questions related to the agency’s Section 508 program, please contact the Section 508 Coordinator  via email at itinfo@onhir.gov; phone 928-779-2721.
+If you have comments and/or questions related to the agency’s Section 508 program, please contact the Section 508 Coordinator  via email at itinfo@onhir.gov  phone 928-779-272 x. 139.
 
 Deaf-Hard of Hearing & Speech Disabled Assistance - 1-800-877-8339
 
