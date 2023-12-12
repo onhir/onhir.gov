@@ -4,7 +4,7 @@ layout: page
 sidenav: true
 ---
 
-**If you have any questions contact Nancy Thomas     [nthomas@onhir.gov](mailto:nthomas@onhir.gov?subject=Budget%20question%20from%20onhir.gov%20link)**
+**If you have any questions contact Finance [finance@onhir.gov](mailto:finance@onhir.gov?subject=Budget%20question%20from%20onhir.gov%20link)**
 
 **Performance & Accountability Report**
 
