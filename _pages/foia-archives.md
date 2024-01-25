@@ -7,6 +7,8 @@ redirect_from:
     - /foia/Archives/
 ---
 
+2023 Annual FOIA Report [(pdf)]({{site.baseurl}}/assets/documents/foia/archives/FOIA--FY2023-Report.pdf) [(xml)]({{site.baseurl}}/assets/documents/foia/archives/ONHIR-Foia-Annual-2023-Report.xml)
+
 2022 Annual FOIA Report [(pdf)]({{site.baseurl}}/assets/documents/foia/archives/FOIA--FY2022-Report.pdf) [(xml)]({{site.baseurl}}/assets/documents/foia/archives/ONHIR-Foia-Annual-2022-Report.xml)
 
 2021 Annual FOIA Report [(pdf)]({{site.baseurl}}/assets/documents/foia/archives/FOIA--FY2021-Report.pdf) [(xml)]({{site.baseurl}}/assets/documents/foia/archives/ONHIR-Foia-Annual-2021-Report.xml)
