@@ -13,7 +13,7 @@ redirect_from:
 [AI Inventory]({{site.baseurl}}/data/ai_inventory)
 
 # B
-[Budget_&_Performance Page]({{site.baseurl}}/budget-and-performance/index.html "Budget & Performance Page")  
+[Budget_&_Performance Page]({{site.baseurl}}/budget-and-performance.html "Budget & Performance Page")  
 
 # C 
 [COVID-19 Workplace Safety Plan]({{site.baseurl}}/assets/documents/eeo/COVID-19_Workforce_Task_Force_Safety_Gidelines.pdf)
