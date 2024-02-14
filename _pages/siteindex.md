@@ -46,7 +46,6 @@ redirect_from:
 [No Fear Act Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf "No Fear Act Data") pdf  
 [Fair Act Contact info]({{site.baseurl}}/assets/documents/budget-and-performance/Fair%20Act%20contact%20info.xls "Fair Act Contact Info") xls  
 [Fair Act Inventory info]({{site.baseurl}}/assets/documents/budget-and-performance/FAIR%20Act%20inventory%20info.xls "Fair Act Inventory Info") xls  
-[Fair Act Summary Figures]({{site.baseurl}}/assets/documents/datasets/FAIR_Act_summary_figures.xls "Fair Act Summary Figures") xls
 
 # G  
 
@@ -103,7 +102,7 @@ redirect_from:
 [Reading Room Page]({{site.baseurl}}/readingroom/index.html "Reading Room")  
 [Requirements_for_Contractors Page]({{site.baseurl}}/readingroom/Requirements-for-Contractors.html "Requirements_for_Contractors")  
 [Recovery Page]({{site.baseurl}}/recovery/index.html "Recovery Page")  
-[Reasonable_Accommondation_Policy Page]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation%20Policy.pdf)  
+[Reasonable_Accommondation_Policy Page]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation_Policy-Procedures.pdf)  
 [Reduce the use of Social Security Numbers]({{site.baseurl}}/assets/documents/privacy/FISMA-20-Reduce-use-of-Social-Security-Number-Policy-Procedure.pdf)  
 [Report and Plan April 3 1981 - Part 1 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan-April_3_1981_Part_1_of_3.pdf "Report and Plan April 3/1981 - Part 1 of 3")  
 [Report and Plan April 3 1981 - Part 2 of 3 (pdf)]({{site.baseurl}}/assets/documents/readingroom/Report_and_Plan_April_3_1981_Part_2_of_3.pdf "Report and Plan April 3 1981 Part 2 of 3")  
