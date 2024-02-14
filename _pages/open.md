@@ -4,7 +4,7 @@ layout: page
 sidenav: true
 ---
 
-[![Open Gov](https://www.onhir.gov/images/opengov_badge_v6.jpg)](https://www.data.gov)
+[Open Gov](https://www.data.gov)
 
 Welcome to the ONHIR's Open Government Web page.  This page includes important ONHIR data sets and information to help the American public better understand the work of the agency and contribute ideas that will promote the effectiveness and efficiency of [our mission]({{site.baseurl}}/mission/ "Mission").    The information on this page complements the many other Federal agency data sets located at  https://data.gov.
 
