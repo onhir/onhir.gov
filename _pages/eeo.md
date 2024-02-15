@@ -18,7 +18,6 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Diversity, Equity, Inclusion and Accessibility(DEIA) Policy]({{site.baseurl}}/assets/documents/policy/DEIA_Policy.pdf)  pdf
 *   [Employment and Advancement of Individuals with Disabilities Policy]({{site.baseurl}}/assets/documents/policy/Individuals_with_Disabilities_Policy.pdf)  pdf
 *   [Policy Statement on Equity Diversion Inclusion]({{site.baseurl}}/assets/documents/eeo/Policy_Statement_on_Equity_Diversion_Inc.pdf)  pdf  02/2024
-*   [Architectural Barriers Act (ABA)]({{site.baseurl}}/assets/documents/eeo/Architectural_Barriers_Act_(ABA).pdf)  pdf
 
 **Reasonable Accommodation**
 *   [Reasonable Accommodation Policy-Procedure]({{site.baseurl}}/assets/documents/policy/Reasonable_Accommodation_Policy-Procedures.pdf)  pdf  03/2023
