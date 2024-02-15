@@ -7,10 +7,10 @@ sidenav: true
 If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslater@onhir.gov?subject=EEO/HR%20question20from%20onhir.gov%20link)**
 
 **Equal Employment Opportunity (EEO)**
-*   [Commitment Policy PDF]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 3/2023
-*   [Alternative Dispute Resolution Policy - PDF]({{site.baseurl}}/assets/documents/eeo/Alternative-Dispute-Resolution-Policy.pdf) pdf 03/2023
-*   [Alternative Dispute Resolution Procedures - PDF]({{site.baseurl}}/assets/documents/eeo/Alternative_Dispute_Resolution_Procedures.pdf) pdf 02/2024
-*   [Discrimination Complaint Process](EEO-DISCRIMINATION-COMPLAINT-PROCESS.html)
+*   [Commitment Policy]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 3/2023
+*   [Alternative Dispute Resolution Policy]({{site.baseurl}}/assets/documents/eeo/Alternative-Dispute-Resolution-Policy.pdf) pdf 03/2023
+*   [Alternative Dispute Resolution Procedures]({{site.baseurl}}/assets/documents/eeo/Alternative_Dispute_Resolution_Procedures.pdf) pdf 02/2024
+*   [Discrimination Complaint Process](EEO-DISCRIMINATION-COMPLAINT-PROCESS.html) .html
 *   [PAS Procedures]({{site.baseurl}}/assets/documents/eeo/PAS.pdf)  pdf
 *   [Anti-Harassment Policy and Procedures]({{site.baseurl}}/assets/documents/eeo/Harassment.pdf)  pdf
 *   [Affirmative Action Statement of Policy]({{site.baseurl}}/assets/documents/eeo/Affirmative-Action-Statement-of-Policy.pdf) pdf
@@ -32,7 +32,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [No Fear Act Notice]({{site.baseurl}}/assets/documents/eeo/No-Fear-Act-Notice.pdf) 10/04/23
 
 **Whistleblower Disclosure / Prohibited**
-**[US Office of Special Counsel](https://osc.gov "US Office of Special Counsel")** - [https://osc.gov](https://osc.gov/)
+**[US Office of Special Counsel](https://osc.gov "US Office of Special Counsel")** - [https://osc.gov](https://osc.gov/)  .html
 
 *   [OSC Annual Notice]({{site.baseurl}}/assets/documents/eeo/OSC-Certification.pdf) pdf
 *   [Prohibited Personnel Practices]({{site.baseurl}}/assets/documents/eeo/Prohibited%20Personnel%20Practices.pdf) pdf
@@ -42,6 +42,6 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Whistleblower Retaliation]({{site.baseurl}}/assets/documents/eeo/Whistleblower%20Retaliation.pdf) pdf
 
 **Human Resources (HR)**
-*   [FEVS - Federal Employee View Point Survey](../employee-survey/index.html)
+*   [FEVS - Federal Employee View Point Survey](../employee-survey/index.html)  .html
 
 Updated: 02/15/2024
