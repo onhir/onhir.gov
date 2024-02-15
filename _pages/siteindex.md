@@ -19,7 +19,7 @@ redirect_from:
 [COVID-19 Workplace Safety Plan]({{site.baseurl}}/assets/documents/eeo/COVID-19_Workforce_Task_Force_Safety_Gidelines.pdf)
 [Contact-Us]({{site.baseurl}}/contact-us.html "Contact Us")  
 [Congressional Justification]({{site.baseurl}}/CJ/ "Congressional Justification")  
-[Contractors Requirements to build relocation houses]({{site.basurl}}/readingroom/Requirements-for-Contractors.html "Requirements for Contractors") "Contracors Reqirements")
+[Contractors Requirements to build relocation houses]({{site.basurl}}/readingroom/Requirements-for-Contractors.html "Requirements for Contractors")
 
 [Congressional Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong  Resource Requirements") pdf  
 [Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong Salaries and Expenses") pdf  
@@ -42,7 +42,7 @@ redirect_from:
 [FOIA-- Chief FOIA Officer Reports]({{site.baseurl}}/foia/Chief/index.html)  
 [FOIA -- Annual Reports]({{site.baseurl}}/foia/Archives/index.html)  
 [Final_Opinions Page]({{site.baseurl}}/policy/Final-Opinions.html "final_opinions")  
-[No Fear Act Notice]({{site.baseurl}}/eeo/No-Fear-Act-Notice.pdf "No Fear Act Notice")  
+[No Fear Act Notice]({{site.baseurl}}/assets/documents/eeo/No-Fear-Act-Notice.pdf "No Fear Act Notice")  
 [No Fear Act Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf "No Fear Act Data") pdf  
 [Fair Act Contact info]({{site.baseurl}}/assets/documents/budget-and-performance/Fair%20Act%20contact%20info.xls "Fair Act Contact Info") xls  
 [Fair Act Inventory info]({{site.baseurl}}/assets/documents/budget-and-performance/FAIR%20Act%20inventory%20info.xls "Fair Act Inventory Info") xls  
