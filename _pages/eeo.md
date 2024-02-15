@@ -9,6 +9,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 **Equal Employment Opportunity (EEO)**
 *   [Commitment Policy PDF]({{site.baseurl}}/assets/documents/eeo/EEO-Policy-Statement.pdf) pdf 3/2023
 *   [Alternative Dispute Resolution Policy - PDF]({{site.baseurl}}/assets/documents/eeo/Alternative-Dispute-Resolution-Policy.pdf) pdf 03/2023
+*   [Alternative Dispute Resolution Procedures - PDF]({{site.baseurl}}/assets/documents/eeo/Alternative_Dispute_Resolution_Procedures.pdf) pdf 02/2024
 *   [Discrimination Complaint Process](EEO-DISCRIMINATION-COMPLAINT-PROCESS.html)
 *   [PAS Procedures]({{site.baseurl}}/assets/documents/eeo/PAS.pdf)  pdf
 *   [Anti-Harassment Policy and Procedures]({{site.baseurl}}/assets/documents/eeo/Harassment.pdf)  pdf
@@ -16,6 +17,7 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Prevention of Harassment Policy]({{site.baseurl}}/assets/documents/policy/Prevention_of_Harassment_Policy.pdf)  pdf
 *   [Diversity, Equity, Inclusion and Accessibility(DEIA) Policy]({{site.baseurl}}/assets/documents/policy/DEIA_Policy.pdf)  pdf
 *   [Employment and Advancement of Individuals with Disabilities Policy]({{site.baseurl}}/assets/documents/policy/Individuals_with_Disabilities_Policy.pdf)  pdf
+*   [Policy Statement on Equity Diversion Inclusion]({{site.baseurl}}/assets/documents/eeo/Policy_Statement_on_Equity_Diversion_Inc.pdf)  pdf  02/2024
 *   [Architectural Barriers Act (ABA)]({{site.baseurl}}/assets/documents/eeo/Architectural_Barriers_Act_(ABA).pdf)  pdf
 
 **Reasonable Accommodation**
@@ -41,9 +43,10 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 **Whistleblower Disclosure**
 
 *   [Know your Rights When Reporting Wrongs]({{site.baseurl}}/assets/documents/eeo/Know%20your%20Rights%20When%20Reporting%20Wrongs.pdf) pdf
+*   [Whistleblower Protection/Prohibited Personnel Practices]({{site.baseurl}}/assets/documents/eeo/Whistleblower_Protection-Prohibited_Personnel_Practices.pdf) pdf  02/2024
 *   [Whistleblower Retaliation]({{site.baseurl}}/assets/documents/eeo/Whistleblower%20Retaliation.pdf) pdf
 
 **Human Resources (HR)**
 *   [Employee Survey](../employee-survey/index.html)
 
-Updated: 12/07/2023
+Updated: 02/15/2024
