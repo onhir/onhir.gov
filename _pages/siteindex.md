@@ -19,7 +19,7 @@ redirect_from:
 [COVID-19 Workplace Safety Plan]({{site.baseurl}}/assets/documents/eeo/COVID-19_Workforce_Task_Force_Safety_Gidelines.pdf)
 [Contact-Us]({{site.baseurl}}/contact-us.html "Contact Us")  
 [Congressional Justification]({{site.baseurl}}/CJ/ "Congressional Justification")  
-[Contractors Requirements to build relocation houses]({{site.baseurl}}/Requirements-for-Contractors.html "Contracors Reqirements")
+[Contractors Requirements to build relocation houses]({{site.baseurl}}/Requirements-for-Contractors "Contracors Reqirements")
 
 [Congressional Resource Requirements]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Resource%20Requirements.pdf "Cong  Resource Requirements") pdf  
 [Congressional Salaries and Expenses]({{site.baseurl}}/assets/documents/budget-and-performance/Congressional%20Salaries%20and%20Expenses.pdf "Cong Salaries and Expenses") pdf  
