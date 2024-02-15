@@ -27,26 +27,22 @@ If you have any questions contact Teresa Slater [tslater@onhir.gov](mailto:tslat
 *   [Reasonable Accommodation Denial Form]({{site.baseurl}}/assets/documents/eeo/Reasonable_Accommodation_Denial_Form.pdf)  pdf
 *   [ONHIR - COVID-19 Workplace Safety Plan]({{site.baseurl}}/assets/documents/eeo/COVID-19_Workforce_Task_Force_Safety_Gidelines.pdf)  pdf 10/2023
 
-**[US Office of Special Counsel](https://osc.gov "US Office of Special Counsel")** - [https://osc.gov](https://osc.gov/)
+**No Fear Act**
 
-*   [No Fear Data Annual Report]({{site.baseurl}}/assets/documents/eeo/No-Fear-Act-Annual-Report.pdf) pdf 10/2023
 *   [No Fear Data]({{site.baseurl}}/assets/documents/eeo/No-FEAR-DATA.pdf) pdf update 12/07/2023  
 *   [No Fear Act Notice]({{site.baseurl}}/assets/documents/eeo/No-Fear-Act-Notice.pdf) 10/04/23
-*   [The Architectural Barriers Act of 1968]({{site.baseurl}}/assets/documents/eeo/The%20Architectural%20Barriers%20Act%20of%201968.pdf)  
+
+**Whistleblower Disclosure / Prohibited**
+**[US Office of Special Counsel](https://osc.gov "US Office of Special Counsel")** - [https://osc.gov](https://osc.gov/)
+
 *   [OSC Annual Notice]({{site.baseurl}}/assets/documents/eeo/OSC-Certification.pdf) pdf
-
-**Prohibited Personnel Practices (PPP)**
-
 *   [Prohibited Personnel Practices]({{site.baseurl}}/assets/documents/eeo/Prohibited%20Personnel%20Practices.pdf) pdf
 *   [Know Your Rights as a Federal Employee]({{site.baseurl}}/assets/documents/eeo/Know%20Your%20Rights%20as%20a%20Federal%20Employee.pdf) pdf
-
-**Whistleblower Disclosure**
-
 *   [Know your Rights When Reporting Wrongs]({{site.baseurl}}/assets/documents/eeo/Know%20your%20Rights%20When%20Reporting%20Wrongs.pdf) pdf
 *   [Whistleblower Protection/Prohibited Personnel Practices]({{site.baseurl}}/assets/documents/eeo/Whistleblower_Protection-Prohibited_Personnel_Practices.pdf) pdf  02/2024
 *   [Whistleblower Retaliation]({{site.baseurl}}/assets/documents/eeo/Whistleblower%20Retaliation.pdf) pdf
 
 **Human Resources (HR)**
-*   [Employee Survey](../employee-survey/index.html)
+*   [FEVS - Federal Employee View Point Survey](../employee-survey/index.html)
 
 Updated: 02/15/2024
