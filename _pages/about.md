@@ -19,11 +19,11 @@ The mission of the Office of Navajo and Hopi Indian Relocation is to provide qua
 
 [Regulations and Other Documents](https://tinyurl.com/ybte9ant)
 
-[HSPD-12 Reporting]({{site.baseurl}}/assets/documents/about-ONHIR/HSPD-12-Reporting.pdf) (pdf) updated 12/07/2023
+[HSPD-12 Reporting]({{site.baseurl}}/assets/documents/about-ONHIR/HSPD-12-Reporting.pdf) (pdf) updated 03/11/2024
 
 [AI Inventory]({{site.baseurl}}/data/ai_inventory)
 
 Padres Mesa Ranch - disclaimer: This agency has no editorial rights to the public website padresmesaranch.com  it is our understanding the site is privately owned and monitored.
 
-Updated: 12/07/2023
+Updated: 03/11/2024
 
